@@ -1,0 +1,35 @@
+{
+  "info" :
+  {
+    "name" : "SkeletonWidget",
+
+    "summary" : "A Sample widget.",
+    "description": "This widget can be used as basis for other contributions",
+    "keywords" : ["widget", "skeleton"],
+    "homepage" : "http://contrib.qooxdoo.org",
+
+    "license" : "LGPL/EPL",
+    "authors" : [
+      {
+        "name" : "",
+        "email" : ""
+      }
+    ],
+
+    "version" : "trunk",
+    "qooxdoo-versions": ["0.8"],
+    "download" : "http://svn.code.sf.net/p/qooxdoo-contrib/code/trunk/qooxdoo-contrib/SkeletonWidget/trunk/",
+    "checksum" : "adf4711"
+    "category" : ["widget"]
+  },
+
+  "provides" :
+  {
+    "namespace"   : "skeletonwidget",
+    "encoding"    : "utf-8",
+    "class"       : "source/class",
+    "resource"    : "source/resource",
+    "translation" : "source/translation",
+    "type"        : "contribution"
+  }
+}
