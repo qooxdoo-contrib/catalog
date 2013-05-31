@@ -19,7 +19,7 @@
     "version" : "trunk",
     "qooxdoo-versions": ["0.8"],
     "download" : "http://svn.code.sf.net/p/qooxdoo-contrib/code/trunk/qooxdoo-contrib/SkeletonWidget/trunk/",
-    "checksum" : "adf4711"
+    "checksum" : "2adf47ac",
     "category" : ["widget"]
   },
 
