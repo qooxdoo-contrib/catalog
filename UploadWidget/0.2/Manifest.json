@@ -1,0 +1,44 @@
+{
+  "info" : {
+    "category" : [], 
+    "description" : "", 
+    "license" : "LGPL/EPL", 
+    "checksum" : "", 
+    "qooxdoo-versions" : [
+      "0.8", 
+      "1.0", 
+      "trunk"
+    ], 
+    "summary" : "Widget for HTTP file uploads.", 
+    "download" : "http://svn.code.sf.net/p/qooxdoo-contrib/code/trunk/qooxdoo-contrib/UploadWidget/0.2/", 
+    "version" : "trunk", 
+    "authors" : [
+      {
+        "email" : "", 
+        "name" : "Dietrich Streifert", 
+        "user" : "level420"
+      }, 
+      {
+        "email" : "", 
+        "name" : "Petr Kobalicek", 
+        "user" : "e666e"
+      }
+    ], 
+    "keywords" : [
+      "qooxdoo", 
+      "widget", 
+      "cross-browser", 
+      "upload"
+    ], 
+    "homepage" : "http://qooxdoo.org/documentation/contrib/contributions#uploadwidget", 
+    "name" : "UploadWidget"
+  }, 
+  "provides" : {
+    "resource" : "source/resource", 
+    "encoding" : "utf-8", 
+    "namespace" : "uploadwidget", 
+    "translation" : "source/translation", 
+    "type" : "library", 
+    "class" : "source/class"
+  }
+}

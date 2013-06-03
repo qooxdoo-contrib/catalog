@@ -1,0 +1,31 @@
+{
+  "info" : {
+    "category" : [], 
+    "description" : "The dialog package provides many often-used widgets required in user interaction, such as alert, confirm, prompt, and others that simplify the web developer's daily work.", 
+    "license" : "LGPL/EPL", 
+    "checksum" : "", 
+    "qooxdoo-versions" : [
+      "0.8", 
+      "1.0"
+    ], 
+    "summary" : "Dialog Contribution", 
+    "version" : "0.1", 
+    "authors" : [
+      {
+        "name" : "Chritian Boulanger (cboulanger)", 
+        "email" : "c.boulanger@qxtransformer.org"
+      }
+    ], 
+    "download" : "http://svn.code.sf.net/p/qooxdoo-contrib/code/trunk/qooxdoo-contrib/Dialog/0.1/", 
+    "homepage" : "http://contrib.qooxdoo.org/project/Dialog", 
+    "name" : "Dialog"
+  }, 
+  "provides" : {
+    "resource" : "source/resource", 
+    "encoding" : "utf-8", 
+    "namespace" : "dialog", 
+    "translation" : "source/translation", 
+    "type" : "contribution", 
+    "class" : "source/class"
+  }
+}

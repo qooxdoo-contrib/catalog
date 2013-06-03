@@ -1,0 +1,33 @@
+{
+  "info" : {
+    "category" : [], 
+    "description" : "A simple frontend to test the backend JSONRPC server.", 
+    "license" : "LGPL/EPL", 
+    "checksum" : "", 
+    "qooxdoo-versions" : [
+      "1.0", 
+      "1.1", 
+      "1.2", 
+      "1.3-pre"
+    ], 
+    "summary" : "RpcConsole Contribution", 
+    "version" : "trunk", 
+    "authors" : [
+      {
+        "name" : "Christian Boulanger (cboulanger)", 
+        "email" : "c.boulanger@qxtransformer.org"
+      }
+    ], 
+    "download" : "http://svn.code.sf.net/p/qooxdoo-contrib/code/trunk/qooxdoo-contrib/RpcConsole/trunk/", 
+    "homepage" : "http://contrib.qooxdoo.org/project/RpcConsole", 
+    "name" : "RpcConsole"
+  }, 
+  "provides" : {
+    "resource" : "source/resource", 
+    "encoding" : "utf-8", 
+    "namespace" : "rpcconsole", 
+    "translation" : "source/translation", 
+    "type" : "backend", 
+    "class" : "source/class"
+  }
+}

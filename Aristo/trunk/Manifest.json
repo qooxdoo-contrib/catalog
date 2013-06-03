@@ -1,0 +1,45 @@
+{
+  "info" : {
+    "category" : [], 
+    "description" : "Additional theme. Aristo is an open source UI created by <a href='http://280north.com/'>280 North, Inc.</a> and <a href='http://www.madebysofa.com/'>Sofa</a> and released under the <br/>Creative Commons Attribution Share-Alike License <a href='http://creativecommons.org/licenses/by-sa/3.0/us/'>http://creativecommons.org/licenses/by-sa/3.0/us/</a>. <br/>See <a href='http://github.com/280north/aristo'>homepage</a> for more info.", 
+    "license" : "Creative Commons Attribution Share-Alike", 
+    "checksum" : "", 
+    "qooxdoo-versions" : [
+      "1.4", 
+      "1.5", 
+      "1.6", 
+      "1.6-pre"
+    ], 
+    "summary" : "Aristo Contribution", 
+    "version" : "trunk", 
+    "authors" : [
+      {
+        "name" : "Guilherme Aiolfi (guilhermeaiolfi)", 
+        "email" : "gradinf AT gmail DOT com"
+      }, 
+      {
+        "name" : "John Spackman", 
+        "email" : "john DOT spackman AT zenesis DOT com"
+      }, 
+      {
+        "name" : "Original creators: 280 North, Inc.", 
+        "email" : "http://280north.com/"
+      }, 
+      {
+        "name" : "Original creators: Sofa", 
+        "email" : "http://madebysofa.com/"
+      }
+    ], 
+    "download" : "http://svn.code.sf.net/p/qooxdoo-contrib/code/trunk/qooxdoo-contrib/Aristo/trunk/", 
+    "homepage" : "http://contrib.qooxdoo.org/project/Aristo", 
+    "name" : "Aristo"
+  }, 
+  "provides" : {
+    "resource" : "source/resource", 
+    "encoding" : "utf-8", 
+    "namespace" : "aristo", 
+    "translation" : "source/translation", 
+    "type" : "theme", 
+    "class" : "source/class"
+  }
+}

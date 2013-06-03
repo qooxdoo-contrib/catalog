@@ -1,0 +1,30 @@
+{
+  "info" : {
+    "category" : [], 
+    "description" : "Extension of the standard qooxdoo framework.", 
+    "license" : "LGPL/EPL", 
+    "checksum" : "", 
+    "qooxdoo-versions" : [
+      "1.6-pre"
+    ], 
+    "summary" : "qooxdoo extension framework", 
+    "version" : "trunk", 
+    "authors" : [
+      {
+        "name" : "Stefan Andersson (sand)", 
+        "email" : "stefan.andersson@live.com"
+      }
+    ], 
+    "download" : "http://svn.code.sf.net/p/qooxdoo-contrib/code/trunk/qooxdoo-contrib/qxe/trunk/", 
+    "homepage" : "http://contrib.qooxdoo.org/project/qxe", 
+    "name" : "qxe"
+  }, 
+  "provides" : {
+    "resource" : "source/resource", 
+    "encoding" : "utf-8", 
+    "namespace" : "qxe", 
+    "translation" : "source/translation", 
+    "type" : "contribution", 
+    "class" : "source/class"
+  }
+}

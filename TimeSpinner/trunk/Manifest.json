@@ -1,0 +1,44 @@
+{
+  "info" : {
+    "category" : [], 
+    "description" : "Provides a spinner widget for time.", 
+    "license" : "LGPL/EPL", 
+    "checksum" : "", 
+    "qooxdoo-versions" : [
+      "0.8"
+    ], 
+    "summary" : "TimeSpinner", 
+    "download" : "http://svn.code.sf.net/p/qooxdoo-contrib/code/trunk/qooxdoo-contrib/TimeSpinner/trunk/", 
+    "version" : "trunk", 
+    "authors" : [
+      {
+        "name" : "Nathan Hadley", 
+        "email" : "n.hadley@celcat.com"
+      }, 
+      {
+        "name" : "Matthew Gregory (noggin182)", 
+        "email" : "matthew+qooxdoo@nogsnet.com"
+      }, 
+      {
+        "name" : "Johann Fridriksson", 
+        "email" : "johann.fridriksson@gmail.com"
+      }
+    ], 
+    "keywords" : [
+      "ui", 
+      "time", 
+      "timespinner", 
+      "spinner"
+    ], 
+    "homepage" : "http://qooxdoo.org/contrib/project/timespinner", 
+    "name" : "TimeSpinner"
+  }, 
+  "provides" : {
+    "resource" : "source/resource", 
+    "encoding" : "utf-8", 
+    "namespace" : "timespinner", 
+    "translation" : "source/translation", 
+    "type" : "library", 
+    "class" : "source/class"
+  }
+}

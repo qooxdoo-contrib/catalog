@@ -1,0 +1,31 @@
+{
+  "info" : {
+    "category" : [], 
+    "description" : "A qooxdoo interface to native SVG", 
+    "license" : "LGPL/EPL", 
+    "checksum" : "", 
+    "qooxdoo-versions" : [
+      "1.4", 
+      "1.5"
+    ], 
+    "summary" : "SVG Contribution", 
+    "version" : "trunk", 
+    "authors" : [
+      {
+        "name" : "Marc Puts", 
+        "email" : "marc.puts@realtimesolutions.nl"
+      }
+    ], 
+    "download" : "http://svn.code.sf.net/p/qooxdoo-contrib/code/trunk/qooxdoo-contrib/SVG/trunk/", 
+    "homepage" : "http://contrib.qooxdoo.org/project/SVG", 
+    "name" : "SVG"
+  }, 
+  "provides" : {
+    "resource" : "source/resource", 
+    "encoding" : "utf-8", 
+    "namespace" : "svg", 
+    "translation" : "source/translation", 
+    "type" : "contribution", 
+    "class" : "source/class"
+  }
+}

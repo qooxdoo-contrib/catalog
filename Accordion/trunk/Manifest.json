@@ -1,0 +1,32 @@
+{
+  "info" : {
+    "category" : [], 
+    "description" : "A widget that consists of an array of buttons and content to be displayed once a button gets clicked", 
+    "license" : "LGPL/EPL", 
+    "checksum" : "", 
+    "qooxdoo-versions" : [
+      "1.0", 
+      "1.1", 
+      "1.2"
+    ], 
+    "summary" : "Accordion widget", 
+    "version" : "trunk", 
+    "authors" : [
+      {
+        "name" : "Raimund Mann (simply-notes)", 
+        "email" : "info AT simply-notes DOT de"
+      }
+    ], 
+    "download" : "http://svn.code.sf.net/p/qooxdoo-contrib/code/trunk/qooxdoo-contrib/Accordion/trunk/", 
+    "homepage" : "http://contrib.qooxdoo.org/project/Accordion", 
+    "name" : "Accordion"
+  }, 
+  "provides" : {
+    "resource" : "source/resource", 
+    "encoding" : "utf-8", 
+    "namespace" : "accordion", 
+    "translation" : "source/translation", 
+    "type" : "contribution", 
+    "class" : "source/class"
+  }
+}

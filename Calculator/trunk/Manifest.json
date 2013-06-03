@@ -1,0 +1,31 @@
+{
+  "info" : {
+    "category" : [], 
+    "description" : "This application demonstrates some of qooxdoo's powerful layout and theming features.", 
+    "license" : "LGPL/EPL", 
+    "checksum" : "", 
+    "qooxdoo-versions" : [
+      "0.8.1", 
+      "trunk"
+    ], 
+    "summary" : "Calculator Demo application", 
+    "version" : "trunk", 
+    "authors" : [
+      {
+        "name" : "Fabian Jakobs (fjakobs)", 
+        "email" : "fabian.jakobs@1und1.de"
+      }
+    ], 
+    "download" : "http://svn.code.sf.net/p/qooxdoo-contrib/code/trunk/qooxdoo-contrib/Calculator/trunk/", 
+    "homepage" : "http://qooxdoo.org/", 
+    "name" : "calc"
+  }, 
+  "provides" : {
+    "resource" : "source/resource", 
+    "encoding" : "utf-8", 
+    "namespace" : "calc", 
+    "translation" : "source/translation", 
+    "type" : "application", 
+    "class" : "source/class"
+  }
+}

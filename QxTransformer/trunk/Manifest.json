@@ -1,0 +1,35 @@
+{
+  "info" : {
+    "category" : [], 
+    "description" : "QxTransformer is an open source framework providing conversion from a transparent XML description of the graphical user interface (GUI) to qooxdoo JavaScript code. It is designed to ease the burden of writing web application in JavaScript and allows automated creation of UI within the regular qooxdoo build and deployment process. The framework ships with an xml 'dialect' which mirrors the qooxdoo object structure, but allows to integrate any other xml semantics with an advanced templating system.", 
+    "license" : "LGPL/EPL", 
+    "checksum" : "", 
+    "qooxdoo-versions" : [
+      "1.0", 
+      "trunk"
+    ], 
+    "summary" : "QxTransformer Contribution", 
+    "version" : "trunk", 
+    "authors" : [
+      {
+        "name" : "Siarhei Barysiuk (sbarysiuk)", 
+        "email" : "s.barysiuk@qxtransformer.org"
+      }, 
+      {
+        "name" : "Christian Boulanger (cboulanger)", 
+        "email" : "c.boulanger@qxtransformer.org"
+      }
+    ], 
+    "download" : "http://svn.code.sf.net/p/qooxdoo-contrib/code/trunk/qooxdoo-contrib/QxTransformer/trunk/", 
+    "homepage" : "http://www.qxtransformer.org", 
+    "name" : "QxTransformer"
+  }, 
+  "provides" : {
+    "resource" : "", 
+    "encoding" : "utf-8", 
+    "namespace" : "qxt", 
+    "translation" : "", 
+    "type" : "library", 
+    "class" : "source/class"
+  }
+}

@@ -1,0 +1,31 @@
+{
+  "info" : {
+    "category" : [], 
+    "description" : "This is a skeleton for a qooxdoo contribution.", 
+    "license" : "LGPL/EPL", 
+    "checksum" : "", 
+    "qooxdoo-versions" : [
+      "1.2", 
+      "1.3-pre"
+    ], 
+    "summary" : "NodeSocket Contribution", 
+    "version" : "trunk", 
+    "authors" : [
+      {
+        "name" : "First Author (uid)", 
+        "email" : "first.author@some.domain"
+      }
+    ], 
+    "download" : "http://svn.code.sf.net/p/qooxdoo-contrib/code/trunk/qooxdoo-contrib/NodeSocket/trunk/", 
+    "homepage" : "http://contrib.qooxdoo.org/project/NodeSocket", 
+    "name" : "NodeSocket"
+  }, 
+  "provides" : {
+    "resource" : "source/resource", 
+    "encoding" : "utf-8", 
+    "namespace" : "nodesocket", 
+    "translation" : "source/translation", 
+    "type" : "contribution", 
+    "class" : "source/class"
+  }
+}

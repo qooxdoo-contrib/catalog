@@ -1,0 +1,31 @@
+{
+  "info" : {
+    "category" : [], 
+    "description" : "Additional theme.", 
+    "license" : "LGPL/EPL", 
+    "checksum" : "", 
+    "qooxdoo-versions" : [
+      "2.0", 
+      "2.1"
+    ], 
+    "summary" : "SilverBlueTheme Contribution", 
+    "version" : "trunk", 
+    "authors" : [
+      {
+        "name" : "Norbert Schröder (scro34)", 
+        "email" : " schroeder AT scro34 DOT de"
+      }
+    ], 
+    "download" : "http://svn.code.sf.net/p/qooxdoo-contrib/code/trunk/qooxdoo-contrib/SilverBlueTheme/trunk/", 
+    "homepage" : "http://contrib.qooxdoo.org/project/SilverBlueTheme", 
+    "name" : "SilverBlueTheme"
+  }, 
+  "provides" : {
+    "resource" : "source/resource", 
+    "encoding" : "utf-8", 
+    "namespace" : "silverbluetheme", 
+    "translation" : "source/translation", 
+    "type" : "theme", 
+    "class" : "source/class"
+  }
+}

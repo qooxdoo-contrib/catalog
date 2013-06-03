@@ -1,0 +1,30 @@
+{
+  "info" : {
+    "category" : [], 
+    "description" : "This is a skeleton for a qooxdoo contribution.", 
+    "license" : "LGPL/EPL", 
+    "checksum" : "", 
+    "qooxdoo-versions" : [
+      "1.3-pre"
+    ], 
+    "summary" : "RpcNode Contribution", 
+    "version" : "trunk", 
+    "authors" : [
+      {
+        "name" : "First Author (uid)", 
+        "email" : "first.author@some.domain"
+      }
+    ], 
+    "download" : "http://svn.code.sf.net/p/qooxdoo-contrib/code/trunk/qooxdoo-contrib/RpcNode/trunk/", 
+    "homepage" : "http://contrib.qooxdoo.org/project/RpcNode", 
+    "name" : "RpcNode"
+  }, 
+  "provides" : {
+    "resource" : "source/resource", 
+    "encoding" : "utf-8", 
+    "namespace" : "rpcnode", 
+    "translation" : "source/translation", 
+    "type" : "contribution", 
+    "class" : "source/class"
+  }
+}

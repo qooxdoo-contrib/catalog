@@ -1,0 +1,31 @@
+{
+  "info" : {
+    "category" : [], 
+    "description" : "Databinding for TreeVirtual and Table.", 
+    "license" : "LGPL/EPL", 
+    "checksum" : "", 
+    "qooxdoo-versions" : [
+      "1.0", 
+      "1.2"
+    ], 
+    "summary" : "VirtualData Contribution", 
+    "version" : "trunk", 
+    "authors" : [
+      {
+        "name" : "Christian Boulanger (cboulanger)", 
+        "email" : "c.boulanger@qxtransformer.org"
+      }
+    ], 
+    "download" : "http://svn.code.sf.net/p/qooxdoo-contrib/code/trunk/qooxdoo-contrib/VirtualData/trunk/", 
+    "homepage" : "http://contrib.qooxdoo.org/project/VirtualData", 
+    "name" : "VirtualData"
+  }, 
+  "provides" : {
+    "resource" : "source/resource", 
+    "encoding" : "utf-8", 
+    "namespace" : "virtualdata", 
+    "translation" : "source/translation", 
+    "type" : "contribution", 
+    "class" : "source/class"
+  }
+}

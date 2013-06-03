@@ -1,0 +1,35 @@
+{
+  "info" : {
+    "category" : [], 
+    "description" : "This is a skeleton for a custom contribution for qooxdoo.", 
+    "license" : "SomeLicense", 
+    "checksum" : "", 
+    "qooxdoo-versions" : [
+      "trunk"
+    ], 
+    "summary" : "Custom Application", 
+    "download" : "http://svn.code.sf.net/p/qooxdoo-contrib/code/trunk/qooxdoo-contrib/SkeletonApplication/trunk/", 
+    "version" : "trunk", 
+    "authors" : [
+      {
+        "name" : "First Author (uid)", 
+        "email" : "first.author@some.domain"
+      }
+    ], 
+    "keywords" : [
+      "custom", 
+      "contrib", 
+      "qooxdoo"
+    ], 
+    "homepage" : "http://some.homepage.url/", 
+    "name" : "Custom Application"
+  }, 
+  "provides" : {
+    "resource" : "source/resource", 
+    "encoding" : "utf-8", 
+    "namespace" : "skeletonapplication", 
+    "translation" : "source/translation", 
+    "type" : "application", 
+    "class" : "source/class"
+  }
+}

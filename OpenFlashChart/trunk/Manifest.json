@@ -1,0 +1,32 @@
+{
+  "info" : {
+    "category" : [], 
+    "description" : "qooxdoo-based wrapper for Open Flash Chart (OFC), it can be used to draw OFC charts.", 
+    "license" : "LGPL/EPL", 
+    "checksum" : "", 
+    "qooxdoo-versions" : [
+      "1.1", 
+      "1.2", 
+      "1.3"
+    ], 
+    "summary" : "OpenFlashChart Contribution", 
+    "version" : "trunk", 
+    "authors" : [
+      {
+        "name" : "Christian Hagendorn (chris_schmidt)", 
+        "email" : "chris_schmidt@users.sourceforge.net"
+      }
+    ], 
+    "download" : "http://svn.code.sf.net/p/qooxdoo-contrib/code/trunk/qooxdoo-contrib/OpenFlashChart/trunk/", 
+    "homepage" : "http://qooxdoo.org/contrib/project#openflashchart", 
+    "name" : "OpenFlashChart"
+  }, 
+  "provides" : {
+    "resource" : "source/resource", 
+    "encoding" : "utf-8", 
+    "namespace" : "openflashchart", 
+    "translation" : "source/translation", 
+    "type" : "contribution", 
+    "class" : "source/class"
+  }
+}

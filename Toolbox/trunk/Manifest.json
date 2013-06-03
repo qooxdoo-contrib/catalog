@@ -1,0 +1,30 @@
+{
+  "info" : {
+    "category" : [], 
+    "description" : "A toolbox to build qooxdoo applications.", 
+    "license" : "LGPL/EPL", 
+    "checksum" : "", 
+    "qooxdoo-versions" : [
+      "0.8"
+    ], 
+    "summary" : "Qooxdoo Toolbox", 
+    "version" : "trunk", 
+    "authors" : [
+      {
+        "name" : "Yuecel Beser (ybeser)", 
+        "email" : "yuecel.beser@1und1.de"
+      }
+    ], 
+    "download" : "http://svn.code.sf.net/p/qooxdoo-contrib/code/trunk/qooxdoo-contrib/Toolbox/trunk/", 
+    "homepage" : "http://www.qooxdoo.org/", 
+    "name" : "toolbox"
+  }, 
+  "provides" : {
+    "resource" : "source/resource", 
+    "encoding" : "utf-8", 
+    "namespace" : "toolbox", 
+    "translation" : "source/translation", 
+    "type" : "application", 
+    "class" : "source/class"
+  }
+}

@@ -1,0 +1,30 @@
+{
+  "info" : {
+    "category" : [], 
+    "description" : "A SOAP/WSDL 1.1 Compliant SOAP client library for qooxdoo", 
+    "license" : "BSD", 
+    "checksum" : "", 
+    "qooxdoo-versions" : [
+      "1.1"
+    ], 
+    "summary" : "A Soap client library for qooxdoo", 
+    "version" : "trunk", 
+    "authors" : [
+      {
+        "name" : "Burak Arslan", 
+        "email" : "burak.arslan-qxsoap@arskom.com.tr"
+      }
+    ], 
+    "download" : "http://svn.code.sf.net/p/qooxdoo-contrib/code/trunk/qooxdoo-contrib/Soap/0.6.2-beta1/", 
+    "homepage" : "http://github.com/arskom/qxsoap", 
+    "name" : "soap"
+  }, 
+  "provides" : {
+    "resource" : "source/resource", 
+    "encoding" : "utf-8", 
+    "namespace" : "soap", 
+    "translation" : "source/translation", 
+    "type" : "contribution", 
+    "class" : "source/class"
+  }
+}

@@ -1,0 +1,31 @@
+{
+  "info" : {
+    "category" : [], 
+    "description" : "Drop-in replacement for Simple table model with filtering and better performance.", 
+    "license" : "LGPL/EPL", 
+    "checksum" : "", 
+    "qooxdoo-versions" : [
+      "0.8.3", 
+      "1.0"
+    ], 
+    "summary" : "SmartTableModel Contribution", 
+    "version" : "0.1", 
+    "authors" : [
+      {
+        "name" : "First Author (uid)", 
+        "email" : "first.author@some.domain"
+      }
+    ], 
+    "download" : "http://svn.code.sf.net/p/qooxdoo-contrib/code/trunk/qooxdoo-contrib/SmartTableModel/0.1/", 
+    "homepage" : "http://contrib.qooxdoo.org/project/SmartTableModel", 
+    "name" : "SmartTableModel"
+  }, 
+  "provides" : {
+    "resource" : "source/resource", 
+    "encoding" : "utf-8", 
+    "namespace" : "smart", 
+    "translation" : "source/translation", 
+    "type" : "contribution", 
+    "class" : "source/class"
+  }
+}

@@ -1,0 +1,34 @@
+{
+  "info" : {
+    "category" : [], 
+    "description" : "A couple of interoperating extensions that are useful for web application development", 
+    "license" : "LGPL/EPL", 
+    "checksum" : "", 
+    "qooxdoo-versions" : [
+      "1.0", 
+      "1.1", 
+      "1.2", 
+      "1.3"
+    ], 
+    "summary" : "qooxdoo component library - javascript classes", 
+    "version" : "trunk", 
+    "authors" : [
+      {
+        "email" : "c DOT boulanger AT qxtransformer DOT org", 
+        "name" : "Christian Boulanger", 
+        "user" : "cboulanger"
+      }
+    ], 
+    "download" : "http://svn.code.sf.net/p/qooxdoo-contrib/code/trunk/qooxdoo-contrib/qcl/trunk/", 
+    "homepage" : "http://qooxdoo.org/contrib/project/qcl", 
+    "name" : "qcl-js"
+  }, 
+  "provides" : {
+    "resource" : "source/resource", 
+    "encoding" : "utf-8", 
+    "namespace" : "qcl", 
+    "translation" : "source/translation", 
+    "type" : "contribution", 
+    "class" : "source/class"
+  }
+}

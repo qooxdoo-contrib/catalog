@@ -1,0 +1,30 @@
+{
+  "info" : {
+    "category" : [], 
+    "description" : "A Date object that handles time zone selection.", 
+    "license" : "LGPL/EPL", 
+    "checksum" : "", 
+    "qooxdoo-versions" : [
+      "1.4"
+    ], 
+    "summary" : "TimezoneDate Contribution", 
+    "version" : "0.1", 
+    "authors" : [
+      {
+        "name" : "Derrell Lipman (derrell)", 
+        "email" : "derrell.lipman@unwireduniverse.com"
+      }
+    ], 
+    "download" : "http://svn.code.sf.net/p/qooxdoo-contrib/code/trunk/qooxdoo-contrib/TimezoneDate/0.1/", 
+    "homepage" : "http://contrib.qooxdoo.org/project/TimezoneDate", 
+    "name" : "TimezoneDate"
+  }, 
+  "provides" : {
+    "resource" : "source/resource", 
+    "encoding" : "utf-8", 
+    "namespace" : "timezonedate", 
+    "translation" : "source/translation", 
+    "type" : "contribution", 
+    "class" : "source/class"
+  }
+}

@@ -1,0 +1,33 @@
+{
+  "info" : {
+    "category" : [], 
+    "description" : "This is a thin wrapper around the persistjs library, see http://pablotron.org/software/persist-js/.", 
+    "license" : "LGPL/EPL", 
+    "checksum" : "", 
+    "qooxdoo-versions" : [
+      "0.8", 
+      "1.0", 
+      "1.1", 
+      "trunk"
+    ], 
+    "summary" : "Persist Contribution", 
+    "version" : "trunk", 
+    "authors" : [
+      {
+        "name" : "Christian Boulanger (cboulanger)", 
+        "email" : "c.boulanger@qxtransformer.org"
+      }
+    ], 
+    "download" : "http://svn.code.sf.net/p/qooxdoo-contrib/code/trunk/qooxdoo-contrib/Persist/trunk/", 
+    "homepage" : "http://contrib.qooxdoo.org/project/Persist", 
+    "name" : "Persist"
+  }, 
+  "provides" : {
+    "resource" : "source/resource", 
+    "encoding" : "utf-8", 
+    "namespace" : "persist", 
+    "translation" : "source/translation", 
+    "type" : "contribution", 
+    "class" : "source/class"
+  }
+}

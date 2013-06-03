@@ -1,0 +1,30 @@
+{
+  "info" : {
+    "category" : [], 
+    "description" : "When completed, qooxit will be a drag-and-drop GUI creator for qooxdoo.", 
+    "license" : "LGPL/EPL", 
+    "checksum" : "", 
+    "qooxdoo-versions" : [
+      "1.4"
+    ], 
+    "summary" : "Drag-and-drop GUI creator", 
+    "version" : "trunk", 
+    "authors" : [
+      {
+        "name" : "Derrell Lipman (derrell)", 
+        "email" : "derrell.lipman@unwireduniverse.com"
+      }
+    ], 
+    "download" : "http://svn.code.sf.net/p/qooxdoo-contrib/code/trunk/qooxdoo-contrib/qooxit/trunk/", 
+    "homepage" : "http://contrib.qooxdoo.org/project/qooxit", 
+    "name" : "qooxit"
+  }, 
+  "provides" : {
+    "resource" : "source/resource", 
+    "encoding" : "utf-8", 
+    "namespace" : "qooxit", 
+    "translation" : "source/translation", 
+    "type" : "application", 
+    "class" : "source/class"
+  }
+}
