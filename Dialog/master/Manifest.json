@@ -1,0 +1,37 @@
+{
+  "info" : 
+  {
+    "name" : "Dialog",
+
+    "summary" : "Dialog Contribution",
+    "description" : "The dialog package provides many often-used widgets required in user interaction, such as alert, confirm, prompt, and others that simplify the web developer's daily work.",
+    
+    "homepage" : "https://github.com/cboulanger/qx-contrib-Dialog",
+
+    "license" : "LGPL/EPL",
+    "authors" : 
+    [
+      {
+        "name" : "Christian Boulanger (cboulanger)",
+        "email" : "c.boulanger@qxtransformer.org"
+      }
+    ],
+
+    "version" : "0.6",
+    "qooxdoo-versions": ["2.0","2.1pre"],
+    "download" : "https://github.com/cboulanger/qx-contrib-Dialog/archive/master.tar.gz",
+    "checksum" : "e3241b1e1c44c3620b07972411a15cf3f05cfa4c",
+    "category" : ["widget"]
+  },
+  
+  "provides" : 
+  {
+    "namespace"   : "dialog",
+    "encoding"    : "utf-8",
+    "class"       : "source/class",
+    "resource"    : "source/resource",
+    "translation" : "source/translation",
+    "type"        : "contribution"
+  }
+}
+
