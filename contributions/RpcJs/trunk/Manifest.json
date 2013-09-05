@@ -1,30 +1,30 @@
 {
   "info" : {
-    "category" : [], 
-    "description" : "This module supports a transport simulator, allowing requests to be issued by the client application to a 'server' running in the browser. This allows requests to be tested entirely in the browser -- client to server and back to client -- before having to build any real server code. If this JavaScript server is run at the real server as well, then the same code written for testing can be used at the real server.", 
-    "license" : "LGPL/EPL", 
-    "checksum" : "", 
+    "category" : ["backend"],
+    "description" : "This module supports a transport simulator, allowing requests to be issued by the client application to a 'server' running in the browser. This allows requests to be tested entirely in the browser -- client to server and back to client -- before having to build any real server code. If this JavaScript server is run at the real server as well, then the same code written for testing can be used at the real server.",
+    "license" : "LGPL/EPL",
+    "checksum" : "",
     "qooxdoo-versions" : [
       "1.4"
-    ], 
-    "summary" : "Remote Procedure Call server and Transport Simulator, implemented entirely in JavaScript", 
-    "version" : "trunk", 
+    ],
+    "summary" : "Remote Procedure Call server and Transport Simulator, implemented entirely in JavaScript",
+    "version" : "trunk",
     "authors" : [
       {
-        "name" : "Derrell Lipman (derrell)", 
+        "name" : "Derrell Lipman (derrell)",
         "email" : "derrell.lipman@unwireduniverse.com"
       }
-    ], 
-    "download" : "http://svn.code.sf.net/p/qooxdoo-contrib/code/trunk/qooxdoo-contrib/RpcJs/trunk/", 
-    "homepage" : "http://contrib.qooxdoo.org/project/RpcJs", 
+    ],
+    "download" : "http://svn.code.sf.net/p/qooxdoo-contrib/code/trunk/qooxdoo-contrib/RpcJs/trunk/",
+    "homepage" : "http://contrib.qooxdoo.org/project/RpcJs",
     "name" : "RpcJs"
-  }, 
+  },
   "provides" : {
-    "resource" : "source/resource", 
-    "encoding" : "utf-8", 
-    "namespace" : "rpcjs", 
-    "translation" : "source/translation", 
-    "type" : "contribution", 
+    "resource" : "source/resource",
+    "encoding" : "utf-8",
+    "namespace" : "rpcjs",
+    "translation" : "source/translation",
+    "type" : "contribution",
     "class" : "source/class"
   }
 }

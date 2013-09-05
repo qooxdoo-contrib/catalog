@@ -1,30 +1,30 @@
 {
   "info" : {
-    "category" : [], 
-    "description" : "Create Protovis charts in your qooxdoo application.", 
-    "license" : "LGPL/EPL", 
-    "checksum" : "", 
+    "category" : ["drawing"],
+    "description" : "Create Protovis charts in your qooxdoo application.",
+    "license" : "LGPL/EPL",
+    "checksum" : "",
     "qooxdoo-versions" : [
       "1.2"
-    ], 
-    "summary" : "Protovis Integration for Qooxdoo", 
-    "version" : "0.1", 
+    ],
+    "summary" : "Protovis Integration for Qooxdoo",
+    "version" : "0.1",
     "authors" : [
       {
-        "name" : "Tobias Oetiker (oetiker)", 
+        "name" : "Tobias Oetiker (oetiker)",
         "email" : "tobi@oetiker.ch"
       }
-    ], 
-    "download" : "http://svn.code.sf.net/p/qooxdoo-contrib/code/trunk/qooxdoo-contrib/QxProtovis/0.1/", 
-    "homepage" : "http://contrib.qooxdoo.org/project/QxProtovis", 
+    ],
+    "download" : "http://svn.code.sf.net/p/qooxdoo-contrib/code/trunk/qooxdoo-contrib/QxProtovis/0.1/",
+    "homepage" : "http://contrib.qooxdoo.org/project/QxProtovis",
     "name" : "QxProtovis"
-  }, 
+  },
   "provides" : {
-    "resource" : "source/resource", 
-    "encoding" : "utf-8", 
-    "namespace" : "qxprotovis", 
-    "translation" : "source/translation", 
-    "type" : "contribution", 
+    "resource" : "source/resource",
+    "encoding" : "utf-8",
+    "namespace" : "qxprotovis",
+    "translation" : "source/translation",
+    "type" : "contribution",
     "class" : "source/class"
   }
 }

@@ -1,30 +1,30 @@
 {
   "info" : {
-    "category" : [], 
-    "description" : "List that can be augmented and edited.", 
-    "license" : "LGPL/EPL", 
-    "checksum" : "", 
+    "category" : ["widget"],
+    "description" : "List that can be augmented and edited.",
+    "license" : "LGPL/EPL",
+    "checksum" : "",
     "qooxdoo-versions" : [
       "1.5"
-    ], 
-    "summary" : "MutableList Contribution", 
-    "version" : "trunk", 
+    ],
+    "summary" : "MutableList Contribution",
+    "version" : "trunk",
     "authors" : [
       {
-        "name" : "Gregory Hellings", 
+        "name" : "Gregory Hellings",
         "email" : "greg.hellings@gmail.com"
       }
-    ], 
-    "download" : "http://svn.code.sf.net/p/qooxdoo-contrib/code/trunk/qooxdoo-contrib/MutableList/trunk/", 
-    "homepage" : "http://contrib.qooxdoo.org/project/MutableList", 
+    ],
+    "download" : "http://svn.code.sf.net/p/qooxdoo-contrib/code/trunk/qooxdoo-contrib/MutableList/trunk/",
+    "homepage" : "http://contrib.qooxdoo.org/project/MutableList",
     "name" : "MutableList"
-  }, 
+  },
   "provides" : {
-    "resource" : "source/resource", 
-    "encoding" : "utf-8", 
-    "namespace" : "mutablelist", 
-    "translation" : "source/translation", 
-    "type" : "contribution", 
+    "resource" : "source/resource",
+    "encoding" : "utf-8",
+    "namespace" : "mutablelist",
+    "translation" : "source/translation",
+    "type" : "contribution",
     "class" : "source/class"
   }
 }

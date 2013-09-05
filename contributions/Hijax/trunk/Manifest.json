@@ -1,38 +1,38 @@
 {
   "info" : {
-    "category" : [], 
-    "description" : "Library to 'ajaxify' traditional web sites.", 
-    "license" : "LGPL/EPL", 
-    "checksum" : "", 
+    "category" : ["backend"],
+    "description" : "Library to 'ajaxify' traditional web sites.",
+    "license" : "LGPL/EPL",
+    "checksum" : "",
     "qooxdoo-versions" : [
       "0.8.3-pre"
-    ], 
-    "summary" : "Library to 'ajaxify' traditional web sites.", 
-    "version" : "trunk", 
+    ],
+    "summary" : "Library to 'ajaxify' traditional web sites.",
+    "version" : "trunk",
     "authors" : [
       {
-        "name" : "Daniel Wagner (d_wagner)", 
+        "name" : "Daniel Wagner (d_wagner)",
         "email" : "daniel.wagner@1und1.de"
-      }, 
+      },
       {
-        "name" : "Stefan Kloiber (skloiber)", 
+        "name" : "Stefan Kloiber (skloiber)",
         "email" : "n.a."
-      }, 
+      },
       {
-        "name" : "Andreas Ecker (ecker)", 
+        "name" : "Andreas Ecker (ecker)",
         "email" : "andreas.ecker@1und1.de"
       }
-    ], 
-    "download" : "http://svn.code.sf.net/p/qooxdoo-contrib/code/trunk/qooxdoo-contrib/Hijax/trunk/", 
-    "homepage" : "http://contrib.qooxdoo.org/project/Hijax", 
+    ],
+    "download" : "http://svn.code.sf.net/p/qooxdoo-contrib/code/trunk/qooxdoo-contrib/Hijax/trunk/",
+    "homepage" : "http://contrib.qooxdoo.org/project/Hijax",
     "name" : "Hijax"
-  }, 
+  },
   "provides" : {
-    "resource" : "source/resource", 
-    "encoding" : "utf-8", 
-    "namespace" : "hjx", 
-    "translation" : "source/translation", 
-    "type" : "contribution", 
+    "resource" : "source/resource",
+    "encoding" : "utf-8",
+    "namespace" : "hjx",
+    "translation" : "source/translation",
+    "type" : "contribution",
     "class" : "source/class"
   }
 }

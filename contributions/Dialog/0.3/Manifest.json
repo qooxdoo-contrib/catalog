@@ -1,33 +1,33 @@
 {
   "info" : {
-    "category" : [], 
-    "description" : "The dialog package provides many often-used widgets required in user interaction, such as alert, confirm, prompt, and others that simplify the web developer's daily work.", 
-    "license" : "LGPL/EPL", 
-    "checksum" : "", 
+    "category" : ["widget"],
+    "description" : "The dialog package provides many often-used widgets required in user interaction, such as alert, confirm, prompt, and others that simplify the web developer's daily work.",
+    "license" : "LGPL/EPL",
+    "checksum" : "",
     "qooxdoo-versions" : [
-      "1.0", 
-      "1.1", 
-      "1.2", 
+      "1.0",
+      "1.1",
+      "1.2",
       "1.3"
-    ], 
-    "summary" : "Dialog Contribution", 
-    "version" : "0.3", 
+    ],
+    "summary" : "Dialog Contribution",
+    "version" : "0.3",
     "authors" : [
       {
-        "name" : "Christian Boulanger (cboulanger)", 
+        "name" : "Christian Boulanger (cboulanger)",
         "email" : "c.boulanger@qxtransformer.org"
       }
-    ], 
-    "download" : "http://svn.code.sf.net/p/qooxdoo-contrib/code/trunk/qooxdoo-contrib/Dialog/0.3/", 
-    "homepage" : "http://contrib.qooxdoo.org/project/Dialog", 
+    ],
+    "download" : "http://svn.code.sf.net/p/qooxdoo-contrib/code/trunk/qooxdoo-contrib/Dialog/0.3/",
+    "homepage" : "http://contrib.qooxdoo.org/project/Dialog",
     "name" : "Dialog"
-  }, 
+  },
   "provides" : {
-    "resource" : "source/resource", 
-    "encoding" : "utf-8", 
-    "namespace" : "dialog", 
-    "translation" : "source/translation", 
-    "type" : "contribution", 
+    "resource" : "source/resource",
+    "encoding" : "utf-8",
+    "namespace" : "dialog",
+    "translation" : "source/translation",
+    "type" : "contribution",
     "class" : "source/class"
   }
 }

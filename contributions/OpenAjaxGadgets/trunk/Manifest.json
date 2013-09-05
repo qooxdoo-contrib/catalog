@@ -1,26 +1,26 @@
 {
   "info" : {
-    "category" : [], 
-    "description" : "Demonstration of an OpenAjax-Compatible qooxdoo application. To be used within mashup applications implementing the OpenAjax Hub.", 
-    "license" : "LGPL/EPL", 
-    "checksum" : "", 
+    "category" : [],
+    "description" : "Demonstration of an OpenAjax-Compatible qooxdoo application. To be used within mashup applications implementing the OpenAjax Hub.",
+    "license" : "LGPL/EPL",
+    "checksum" : "",
     "qooxdoo-versions" : [
       "0.8"
-    ], 
-    "summary" : "qooxdoo OpenAjax Gadgets", 
-    "version" : "trunk", 
+    ],
+    "summary" : "qooxdoo OpenAjax Gadgets",
+    "version" : "trunk",
     "authors" : [
       {
-        "name" : "Daniel Wagner", 
+        "name" : "Daniel Wagner (d_wagner)",
         "email" : "daniel DOT wagner AT 1und1 DOT de"
       }
-    ], 
-    "download" : "http://svn.code.sf.net/p/qooxdoo-contrib/code/trunk/qooxdoo-contrib/OpenAjaxGadgets/trunk/", 
-    "homepage" : "http://qooxdoo.org/", 
+    ],
+    "download" : "http://svn.code.sf.net/p/qooxdoo-contrib/code/trunk/qooxdoo-contrib/OpenAjaxGadgets/trunk/",
+    "homepage" : "http://qooxdoo.org/",
     "name" : "OpenAjaxGadgets"
-  }, 
+  },
   "provides" : {
-    "namespace" : "qxpub/qxrec", 
+    "namespace" : "qxpub/qxrec",
     "encoding" : "utf-8"
   }
 }

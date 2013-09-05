@@ -1,42 +1,40 @@
 {
   "info" : {
-    "category" : [], 
-    "description" : "...", 
-    "license" : "LGPL/EPL", 
-    "checksum" : "", 
+    "category" : ["widget"],
+    "description" : "...",
+    "license" : "LGPL/EPL",
+    "checksum" : "",
     "qooxdoo-versions" : [
-      "0.8.2", 
+      "0.8.2",
       "trunk"
-    ], 
-    "summary" : "A simple HTML editing widget", 
-    "download" : "http://svn.code.sf.net/p/qooxdoo-contrib/code/trunk/qooxdoo-contrib/HtmlArea/0.3/", 
-    "version" : "trunk", 
+    ],
+    "summary" : "A simple HTML editing widget",
+    "download" : "http://svn.code.sf.net/p/qooxdoo-contrib/code/trunk/qooxdoo-contrib/HtmlArea/0.3/",
+    "version" : "trunk",
     "authors" : [
       {
-        "email" : "alex DOT back AT 1und1 DOT de", 
-        "name" : "Alexander Back", 
-        "user" : "aback"
-      }, 
+        "email" : "alex DOT back AT 1und1 DOT de",
+        "name" : "Alexander Back (aback)"
+      },
       {
-        "email" : "jonathan DOT weiss AT 1und1 DOT de", 
-        "name" : "Jonathan Weiß", 
-        "user" : "jonathan_rass"
+        "email" : "jonathan DOT weiss AT 1und1 DOT de",
+        "name" : "Jonathan Weiß (jonathan_rass)"
       }
-    ], 
+    ],
     "keywords" : [
-      "qooxdoo", 
-      "widget", 
+      "qooxdoo",
+      "widget",
       "cross-browser"
-    ], 
-    "homepage" : "http://contrib.qooxdoo.org/HtmlArea", 
+    ],
+    "homepage" : "http://contrib.qooxdoo.org/HtmlArea",
     "name" : "HtmlArea"
-  }, 
+  },
   "provides" : {
-    "resource" : "source/resource", 
-    "encoding" : "utf-8", 
-    "namespace" : "htmlarea", 
-    "translation" : "source/translation", 
-    "type" : "library", 
+    "resource" : "source/resource",
+    "encoding" : "utf-8",
+    "namespace" : "htmlarea",
+    "translation" : "source/translation",
+    "type" : "library",
     "class" : "source/class"
   }
 }

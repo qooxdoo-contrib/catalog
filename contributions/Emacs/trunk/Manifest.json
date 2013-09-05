@@ -1,24 +1,24 @@
 {
   "info" : {
-    "category" : [], 
-    "description" : "qooxdoo minor mode for Emacs.", 
-    "license" : "BSD", 
-    "checksum" : "", 
+    "category" : ["tool"],
+    "description" : "qooxdoo minor mode for Emacs.",
+    "license" : "BSD",
+    "checksum" : "",
     "qooxdoo-versions" : [
       "1.3"
-    ], 
-    "summary" : "minor-mode definition", 
-    "version" : "trunk", 
+    ],
+    "summary" : "minor-mode definition",
+    "version" : "trunk",
     "authors" : [
       {
-        "name" : "Jeremiah Dodds", 
+        "name" : "Jeremiah Dodds",
         "email" : "jeremiah dot dodds at the gmail"
       }
-    ], 
-    "download" : "http://svn.code.sf.net/p/qooxdoo-contrib/code/trunk/qooxdoo-contrib/Emacs/trunk/", 
-    "homepage" : "http://contrib.qooxdoo.org/project/Emacs", 
+    ],
+    "download" : "http://svn.code.sf.net/p/qooxdoo-contrib/code/trunk/qooxdoo-contrib/Emacs/trunk/",
+    "homepage" : "http://contrib.qooxdoo.org/project/Emacs",
     "name" : "Emacs"
-  }, 
+  },
   "provides" : {
     "type" : "tool"
   }

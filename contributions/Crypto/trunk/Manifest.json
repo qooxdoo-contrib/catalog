@@ -1,39 +1,38 @@
 {
   "info" : {
-    "category" : [], 
-    "description" : "Collaborating on crypto related features (e.g. OpenPGP, MD5, SHA, RSA, etc.).", 
-    "license" : "LGPL/EPL", 
-    "checksum" : "", 
+    "category" : [],
+    "description" : "Collaborating on crypto related features (e.g. OpenPGP, MD5, SHA, RSA, etc.).",
+    "license" : "LGPL/EPL",
+    "checksum" : "",
     "qooxdoo-versions" : [
-      "0.7", 
-      "0.8", 
+      "0.7",
+      "0.8",
       "trunk"
-    ], 
-    "summary" : "Collaborating on crypto related features (e.g. OpenPGP, MD5, SHA, RSA, etc.).  ", 
-    "download" : "http://svn.code.sf.net/p/qooxdoo-contrib/code/trunk/qooxdoo-contrib/Crypto/trunk/", 
-    "version" : "trunk", 
+    ],
+    "summary" : "Collaborating on crypto related features (e.g. OpenPGP, MD5, SHA, RSA, etc.).  ",
+    "download" : "http://svn.code.sf.net/p/qooxdoo-contrib/code/trunk/qooxdoo-contrib/Crypto/trunk/",
+    "version" : "trunk",
     "authors" : [
       {
-        "email" : "badams AT mywebserve DOT com", 
-        "name" : "Bill Adams", 
-        "user" : "badams5116"
+        "email" : "badams AT mywebserve DOT com",
+        "name" : "Bill Adams (badams5116)"
       }
-    ], 
+    ],
     "keywords" : [
-      "cryptography", 
-      "crypto", 
-      "OpenPGP", 
+      "cryptography",
+      "crypto",
+      "OpenPGP",
       "GnuPG"
-    ], 
-    "homepage" : "http://contrib.qooxdoo.org/Crypto", 
+    ],
+    "homepage" : "http://contrib.qooxdoo.org/Crypto",
     "name" : "Crypto"
-  }, 
+  },
   "provides" : {
-    "resource" : "source/resource", 
-    "encoding" : "utf-8", 
-    "namespace" : "openpgp", 
-    "translation" : "source/translation", 
-    "type" : "contribution", 
+    "resource" : "source/resource",
+    "encoding" : "utf-8",
+    "namespace" : "openpgp",
+    "translation" : "source/translation",
+    "type" : "contribution",
     "class" : "source/class"
   }
 }
