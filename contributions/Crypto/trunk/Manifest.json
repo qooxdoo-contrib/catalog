@@ -1,6 +1,6 @@
 {
   "info" : {
-    "category" : [],
+    "category" : ["utility"],
     "description" : "Collaborating on crypto related features (e.g. OpenPGP, MD5, SHA, RSA, etc.).",
     "license" : "LGPL/EPL",
     "checksum" : "",

@@ -1,30 +1,30 @@
 {
   "info" : {
-    "category" : [], 
-    "description" : "Implementation of form input filters&validatation and TimeChooser", 
-    "license" : "LGPL/EPL", 
-    "checksum" : "", 
+    "category" : ["utility"],
+    "description" : "Implementation of form input filters&validatation and TimeChooser",
+    "license" : "LGPL/EPL",
+    "checksum" : "",
     "qooxdoo-versions" : [
       "trunk"
-    ], 
-    "summary" : "I.Horst's qooxdoo contributions", 
-    "version" : "trunk", 
+    ],
+    "summary" : "I.Horst's qooxdoo contributions",
+    "version" : "trunk",
     "authors" : [
       {
-        "name" : "Ian Horst", 
+        "name" : "Ian Horst",
         "email" : "ian.horst@googlemail.com"
       }
-    ], 
-    "download" : "http://svn.code.sf.net/p/qooxdoo-contrib/code/trunk/qooxdoo-contrib/Egg/trunk/", 
-    "homepage" : "http://contrib.qooxdoo.org", 
+    ],
+    "download" : "http://svn.code.sf.net/p/qooxdoo-contrib/code/trunk/qooxdoo-contrib/Egg/trunk/",
+    "homepage" : "http://contrib.qooxdoo.org",
     "name" : "Egg"
-  }, 
+  },
   "provides" : {
-    "resource" : "source/resource", 
-    "encoding" : "utf-8", 
-    "namespace" : "egg", 
-    "translation" : "source/translation", 
-    "type" : "library", 
+    "resource" : "source/resource",
+    "encoding" : "utf-8",
+    "namespace" : "egg",
+    "translation" : "source/translation",
+    "type" : "library",
     "class" : "source/class"
   }
 }
