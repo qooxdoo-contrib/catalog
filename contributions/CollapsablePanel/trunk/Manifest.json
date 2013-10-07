@@ -21,6 +21,12 @@
         "email" : "info@bibliograph.org"
       }
     ],
+    "demos": [
+      {
+        "name": "default",
+        "url": "http://demo.qooxdoo.org/contrib/demobrowser/demo/collapsablePanel/trunk/default/1.2.2/index.html"
+      }
+    ],
     "download" : "http://svn.code.sf.net/p/qooxdoo-contrib/code/trunk/qooxdoo-contrib/CollapsablePanel/trunk/",
     "homepage" : "http://contrib.qooxdoo.org/project/collapsablePanel",
     "name" : "collapsablePanel"

@@ -1,30 +1,100 @@
 {
   "info" : {
-    "category" : [], 
-    "description" : "Extension of the standard qooxdoo framework.", 
-    "license" : "LGPL/EPL", 
-    "checksum" : "", 
+    "category" : [],
+    "description" : "Extension of the standard qooxdoo framework.",
+    "license" : "LGPL/EPL",
+    "checksum" : "",
     "qooxdoo-versions" : [
       "1.6-pre"
-    ], 
-    "summary" : "qooxdoo extension framework", 
-    "version" : "trunk", 
+    ],
+    "summary" : "qooxdoo extension framework",
+    "version" : "trunk",
     "authors" : [
       {
-        "name" : "Stefan Andersson (sand)", 
+        "name" : "Stefan Andersson (sand)",
         "email" : "stefan.andersson@live.com"
       }
-    ], 
-    "download" : "http://svn.code.sf.net/p/qooxdoo-contrib/code/trunk/qooxdoo-contrib/qxe/trunk/", 
-    "homepage" : "http://contrib.qooxdoo.org/project/qxe", 
+    ],
+    "demos": [
+      {
+        "name": "Busy",
+        "url": "http://demo.qooxdoo.org/contrib/demobrowser/demo/qxe/trunk/Busy/1.6-pre/index.html"
+      },
+      {
+        "name": "ButtonPane",
+        "url": "http://demo.qooxdoo.org/contrib/demobrowser/demo/qxe/trunk/ButtonPane/1.6-pre/index.html"
+      },
+      {
+        "name": "Captcha",
+        "url": "http://demo.qooxdoo.org/contrib/demobrowser/demo/qxe/trunk/Captcha/1.6-pre/index.html"
+      },
+      {
+        "name": "Clock",
+        "url": "http://demo.qooxdoo.org/contrib/demobrowser/demo/qxe/trunk/Clock/1.6-pre/index.html"
+      },
+      {
+        "name": "Counter",
+        "url": "http://demo.qooxdoo.org/contrib/demobrowser/demo/qxe/trunk/Counter/1.6-pre/index.html"
+      },
+      {
+        "name": "DecoratedWindow",
+        "url": "http://demo.qooxdoo.org/contrib/demobrowser/demo/qxe/trunk/DecoratedWindow/1.6-pre/index.html"
+      },
+      {
+        "name": "Dialog",
+        "url": "http://demo.qooxdoo.org/contrib/demobrowser/demo/qxe/trunk/Dialog/1.6-pre/index.html"
+      },
+      {
+        "name": "DocumentViewer",
+        "url": "http://demo.qooxdoo.org/contrib/demobrowser/demo/qxe/trunk/DocumentViewer/1.6-pre/index.html"
+      },
+      {
+        "name": "Frame",
+        "url": "http://demo.qooxdoo.org/contrib/demobrowser/demo/qxe/trunk/Frame/1.6-pre/index.html"
+      },
+      {
+        "name": "MultiStateButton",
+        "url": "http://demo.qooxdoo.org/contrib/demobrowser/demo/qxe/trunk/MultiStateButton/1.6-pre/index.html"
+      },
+      {
+        "name": "OptionDialog",
+        "url": "http://demo.qooxdoo.org/contrib/demobrowser/demo/qxe/trunk/OptionDialog/1.6-pre/index.html"
+      },
+      {
+        "name": "OptionPane",
+        "url": "http://demo.qooxdoo.org/contrib/demobrowser/demo/qxe/trunk/OptionPane/1.6-pre/index.html"
+      },
+      {
+        "name": "PageControl",
+        "url": "http://demo.qooxdoo.org/contrib/demobrowser/demo/qxe/trunk/PageControl/1.6-pre/index.html"
+      },
+      {
+        "name": "StatusBar",
+        "url": "http://demo.qooxdoo.org/contrib/demobrowser/demo/qxe/trunk/StatusBar/1.6-pre/index.html"
+      },
+      {
+        "name": "WebDesktop",
+        "url": "http://demo.qooxdoo.org/contrib/demobrowser/demo/qxe/trunk/WebDesktop/1.6-pre/index.html"
+      },
+      {
+        "name": "Window",
+        "url": "http://demo.qooxdoo.org/contrib/demobrowser/demo/qxe/trunk/Window/1.6-pre/index.html"
+      },
+      {
+        "name": "Wizard",
+        "url": "http://demo.qooxdoo.org/contrib/demobrowser/demo/qxe/trunk/Wizard/1.6-pre/index.html"
+      }
+    ],
+    "download" : "http://svn.code.sf.net/p/qooxdoo-contrib/code/trunk/qooxdoo-contrib/qxe/trunk/",
+    "homepage" : "http://contrib.qooxdoo.org/project/qxe",
     "name" : "qxe"
-  }, 
+  },
   "provides" : {
-    "resource" : "source/resource", 
-    "encoding" : "utf-8", 
-    "namespace" : "qxe", 
-    "translation" : "source/translation", 
-    "type" : "contribution", 
+    "resource" : "source/resource",
+    "encoding" : "utf-8",
+    "namespace" : "qxe",
+    "translation" : "source/translation",
+    "type" : "contribution",
     "class" : "source/class"
   }
 }

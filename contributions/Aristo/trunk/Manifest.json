@@ -30,6 +30,12 @@
         "email" : "http://madebysofa.com/"
       }
     ],
+    "demos": [
+      {
+        "name": "default",
+        "url": "http://demo.qooxdoo.org/contrib/demobrowser/demo/Aristo/trunk/default/1.6.1/index.html"
+      }
+    ],
     "download" : "http://svn.code.sf.net/p/qooxdoo-contrib/code/trunk/qooxdoo-contrib/Aristo/trunk/",
     "homepage" : "http://contrib.qooxdoo.org/project/Aristo",
     "name" : "Aristo"

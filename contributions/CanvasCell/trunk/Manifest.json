@@ -20,6 +20,12 @@
         "email" : "tobi@oetiker.ch"
       }
     ],
+    "demos": [
+      {
+        "name": "default",
+        "url": "http://demo.qooxdoo.org/contrib/demobrowser/demo/CanvasCell/trunk/default/2.0.4/index.html"
+      }
+    ],
     "download" : "http://svn.code.sf.net/p/qooxdoo-contrib/code/trunk/qooxdoo-contrib/CanvasCell/trunk/",
     "homepage" : "http://contrib.qooxdoo.org/project/CanvasCell",
     "name" : "CanvasCell"

@@ -17,6 +17,12 @@
         "email" : "tobi@oetiekr.ch"
       }
     ],
+    "demos": [
+      {
+        "name": "default",
+        "url": "http://demo.qooxdoo.org/contrib/demobrowser/demo/QxDyGraphs/trunk/default/2.0.4/index.html"
+      }
+    ],
     "download" : "http://svn.code.sf.net/p/qooxdoo-contrib/code/trunk/qooxdoo-contrib/QxDyGraphs/trunk/",
     "homepage" : "http://contrib.qooxdoo.org/project/QxDyGraphs",
     "name" : "QxDyGraphs"

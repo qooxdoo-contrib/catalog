@@ -17,6 +17,12 @@
         "email" : "info AT simply-notes DOT de"
       }
     ],
+    "demos": [
+      {
+        "name": "default",
+        "url": "http://demo.qooxdoo.org/contrib/demobrowser/demo/Accordion/trunk/default/1.2.2/index.html"
+      }
+    ],
     "download" : "http://svn.code.sf.net/p/qooxdoo-contrib/code/trunk/qooxdoo-contrib/Accordion/trunk/",
     "homepage" : "http://contrib.qooxdoo.org/project/Accordion",
     "name" : "Accordion"

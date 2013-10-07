@@ -1,6 +1,6 @@
 {
   "info" : {
-    "category" : ["wdiget"],
+    "category" : ["widget"],
     "description" : "A selectbox using a qooxdoo table to show list of options supporting incremental search.",
     "license" : "LGPL/EPL",
     "checksum" : "",
@@ -17,6 +17,12 @@
       {
         "name" : "Mustafa Sak",
         "email" : "info@saksys.de"
+      }
+    ],
+    "demos": [
+      {
+        "name": "default",
+        "url": "http://demo.qooxdoo.org/contrib/demobrowser/demo/ComboTable/trunk/default/1.4.2/index.html"
       }
     ],
     "download" : "http://svn.code.sf.net/p/qooxdoo-contrib/code/trunk/qooxdoo-contrib/ComboTable/trunk/",

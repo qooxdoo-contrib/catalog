@@ -16,6 +16,16 @@
         "email" : "marc.puts@realtimesolutions.nl"
       }
     ],
+    "demos": [
+      {
+        "name": "default",
+        "url": "http://demo.qooxdoo.org/contrib/demobrowser/demo/SVG/trunk/default/1.5.1/index.html"
+      },
+      {
+        "name": "freedraw",
+        "url": "http://demo.qooxdoo.org/contrib/demobrowser/demo/SVG/trunk/freedraw/1.5.1/index.html"
+      }
+    ],
     "download" : "http://svn.code.sf.net/p/qooxdoo-contrib/code/trunk/qooxdoo-contrib/SVG/trunk/",
     "homepage" : "http://contrib.qooxdoo.org/project/SVG",
     "name" : "SVG"

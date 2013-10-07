@@ -16,6 +16,20 @@
         "email" : " schroeder AT scro34 DOT de"
       }
     ],
+    "demos": [
+      {
+        "name": "blue",
+        "url": "http://demo.qooxdoo.org/contrib/demobrowser/demo/RetroTheme/trunk/blue/2.1.1/index.html"
+      },
+      {
+        "name": "dark",
+        "url": "http://demo.qooxdoo.org/contrib/demobrowser/demo/RetroTheme/trunk/dark/2.1.1/index.html"
+      },
+      {
+        "name": "red",
+        "url": "http://demo.qooxdoo.org/contrib/demobrowser/demo/RetroTheme/trunk/red/2.1.1/index.html"
+      }
+    ],
     "download" : "http://svn.code.sf.net/p/qooxdoo-contrib/code/trunk/qooxdoo-contrib/RetroTheme/trunk/",
     "homepage" : "http://contrib.qooxdoo.org/project/RetroTheme",
     "name" : "RetroTheme"

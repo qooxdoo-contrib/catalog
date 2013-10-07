@@ -24,6 +24,20 @@
         "email" : "Derrell.Lipman@unwireduniverse.com"
       }
     ],
+    "demos": [
+      {
+        "name": "default",
+        "url": "http://demo.qooxdoo.org/contrib/demobrowser/demo/SmartTableModel/trunk/default/2.0.4/index.html"
+      },
+      {
+        "name": "searchAsYouType",
+        "url": "http://demo.qooxdoo.org/contrib/demobrowser/demo/SmartTableModel/trunk/searchAsYouType/2.0.4/index.html"
+      },
+      {
+        "name": "tree",
+        "url": "http://demo.qooxdoo.org/contrib/demobrowser/demo/SmartTableModel/trunk/tree/2.0.4/index.html"
+      }
+    ],
     "download" : "http://svn.code.sf.net/p/qooxdoo-contrib/code/trunk/qooxdoo-contrib/SmartTableModel/trunk/",
     "homepage" : "http://contrib.qooxdoo.org/project/SmartTableModel",
     "name" : "SmartTableModel"

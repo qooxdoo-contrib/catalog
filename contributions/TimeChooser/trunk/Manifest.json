@@ -24,6 +24,12 @@
         "email" : "c.boulanger AT qxtransformer DOT org"
       }
     ],
+    "demos": [
+      {
+        "name": "default",
+        "url": "http://demo.qooxdoo.org/contrib/demobrowser/demo/TimeChooser/trunk/default/1.4.2/index.html"
+      }
+    ],
     "keywords" : [
       "date",
       "time"

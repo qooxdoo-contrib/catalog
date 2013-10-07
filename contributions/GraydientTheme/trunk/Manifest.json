@@ -19,6 +19,12 @@
         "email" : " schroeder AT scro34 DOT de"
       }
     ],
+    "demos": [
+      {
+        "name": "default",
+        "url": "http://demo.qooxdoo.org/contrib/demobrowser/demo/GraydientTheme/trunk/default/2.1.1/index.html"
+      }
+    ],
     "download" : "http://svn.code.sf.net/p/qooxdoo-contrib/code/trunk/qooxdoo-contrib/GraydientTheme/trunk/",
     "homepage" : "http://contrib.qooxdoo.org/project/GraydientTheme",
     "name" : "GraydientTheme"

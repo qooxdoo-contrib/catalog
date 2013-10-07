@@ -17,6 +17,16 @@
         "email" : "chris_schmidt@users.sourceforge.net"
       }
     ],
+    "demos": [
+      {
+        "name": "default",
+        "url": "http://demo.qooxdoo.org/contrib/demobrowser/demo/OpenFlashChart/trunk/default/1.3.1/index.html"
+      },
+      {
+        "name": "ofc js",
+        "url": "http://demo.qooxdoo.org/contrib/demobrowser/demo/OpenFlashChart/trunk/ofc_js/1.3.1/index.html"
+      }
+    ],
     "download" : "http://svn.code.sf.net/p/qooxdoo-contrib/code/trunk/qooxdoo-contrib/OpenFlashChart/trunk/",
     "homepage" : "http://qooxdoo.org/contrib/project#openflashchart",
     "name" : "OpenFlashChart"

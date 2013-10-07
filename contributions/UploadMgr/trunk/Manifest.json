@@ -1,6 +1,6 @@
 {
   "info" : {
-    "category" : ["wdiget"],
+    "category" : ["widget"],
     "description" : "Library for uploading files, with progress feedback and doesn't block UI",
     "license" : "LGPL/EPL",
     "checksum" : "",
@@ -17,6 +17,12 @@
       {
         "name" : "John Spackman (spackers)",
         "email" : "john.spackman@zenesis.com"
+      }
+    ],
+    "demos": [
+      {
+        "name": "default",
+        "url": "http://demo.qooxdoo.org/contrib/demobrowser/demo/UploadMgr/trunk/default/2.1.1/index.html"
       }
     ],
     "download" : "http://svn.code.sf.net/p/qooxdoo-contrib/code/trunk/qooxdoo-contrib/UploadMgr/trunk/",

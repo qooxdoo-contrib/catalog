@@ -15,6 +15,12 @@
         "email" : "greg.hellings@gmail.com"
       }
     ],
+    "demos": [
+      {
+        "name": "default",
+        "url": "http://demo.qooxdoo.org/contrib/demobrowser/demo/MutableList/trunk/default/1.5.1/index.html"
+      }
+    ],
     "download" : "http://svn.code.sf.net/p/qooxdoo-contrib/code/trunk/qooxdoo-contrib/MutableList/trunk/",
     "homepage" : "http://contrib.qooxdoo.org/project/MutableList",
     "name" : "MutableList"

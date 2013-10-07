@@ -15,6 +15,12 @@
         "email" : "tobi@oetiker.ch"
       }
     ],
+    "demos": [
+      {
+        "name": "default",
+        "url": "http://demo.qooxdoo.org/contrib/demobrowser/demo/QxProtovis/0.1/default/1.2.2/index.html"
+      }
+    ],
     "download" : "http://svn.code.sf.net/p/qooxdoo-contrib/code/trunk/qooxdoo-contrib/QxProtovis/trunk/",
     "homepage" : "http://contrib.qooxdoo.org/project/QxProtovis",
     "name" : "QxProtovis"
