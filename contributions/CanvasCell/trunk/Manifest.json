@@ -10,7 +10,9 @@
       "1.4", 
       "1.5", 
       "1.6", 
-      "2.0"
+      "2.0",
+      "3.0",
+      "3.5"
     ], 
     "summary" : "canvas cell renderer for the qooxdoo table widget", 
     "version" : "trunk", 
