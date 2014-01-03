@@ -5,7 +5,6 @@
     "license" : "LGPL/EPL",
     "checksum" : "",
     "qooxdoo-versions" : [
-<<<<<<< HEAD
       "1.5", 
       "1.6", 
       "2.0",
@@ -14,14 +13,6 @@
     ], 
     "summary" : "QxDyGraphs Contribution", 
     "version" : "trunk", 
-=======
-      "1.5",
-      "1.6",
-      "2.0"
-    ],
-    "summary" : "QxDyGraphs Contribution",
-    "version" : "trunk",
->>>>>>> 51c0a786681fa20531c241a9faa9d90c0e135b61
     "authors" : [
       {
         "name" : "Tobi Oetiker (oetiker)",
