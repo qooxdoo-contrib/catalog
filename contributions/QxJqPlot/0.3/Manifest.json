@@ -1,0 +1,34 @@
+{
+  "info" : {
+    "category" : [], 
+    "description" : "Integrate jqPlot into qooxdoo.", 
+    "license" : "LGPL/EPL", 
+    "checksum" : "", 
+    "qooxdoo-versions" : [
+      "1.4",
+      "1.5",
+      "1.6",
+      "2.0",
+      "3.0"
+    ], 
+    "summary" : "QxJqPlot Contribution", 
+    "version" : "0.3", 
+    "authors" : [
+      {
+        "name" : "Tobi Oetiker (oetiker)", 
+        "email" : "tobi@oetiker.ch"
+      }
+    ], 
+    "download" : "http://svn.code.sf.net/p/qooxdoo-contrib/code/trunk/qooxdoo-contrib/QxJqPlot/0.3/", 
+    "homepage" : "http://contrib.qooxdoo.org/project/QxJqPlot", 
+    "name" : "QxJqPlot"
+  }, 
+  "provides" : {
+    "resource" : "source/resource", 
+    "encoding" : "utf-8", 
+    "namespace" : "qxjqplot", 
+    "translation" : "source/translation", 
+    "type" : "contribution", 
+    "class" : "source/class"
+  }
+}
