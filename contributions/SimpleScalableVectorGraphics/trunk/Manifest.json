@@ -1,34 +1,34 @@
 {
-  "comment" : "qooxdoo 0.8 manifest here. See Manifest.js for 0.7 use.", 
+  "comment" : "qooxdoo 0.8 manifest here. See Manifest.js for 0.7 use.",
   "info" : {
-    "category" : [], 
-    "description" : "Render graphics in qooxdoo widgets", 
-    "license" : "LGPL", 
-    "checksum" : "", 
+    "category" : ["drawing"],
+    "description" : "Render graphics in qooxdoo widgets",
+    "license" : "LGPL",
+    "checksum" : "",
     "qooxdoo-versions" : [
       "trunk"
-    ], 
-    "summary" : "Simple Scalable Vector Graphics", 
-    "download" : "http://svn.code.sf.net/p/qooxdoo-contrib/code/trunk/qooxdoo-contrib/SimpleScalableVectorGraphics/trunk/", 
-    "version" : "trunk", 
+    ],
+    "summary" : "Simple Scalable Vector Graphics",
+    "download" : "http://svn.code.sf.net/p/qooxdoo-contrib/code/trunk/qooxdoo-contrib/SimpleScalableVectorGraphics/trunk/",
+    "version" : "trunk",
     "authors" : [
       {
-        "name" : "Derrell Lipman", 
+        "name" : "Derrell Lipman (derrell)",
         "email" : "derrell DOT lipman AT unwireduniverse DOT com"
       }
-    ], 
+    ],
     "keywords" : [
       "graphics"
-    ], 
-    "homepage" : "http://contrib.qooxdoo.org", 
+    ],
+    "homepage" : "http://contrib.qooxdoo.org",
     "name" : "Graphics"
-  }, 
+  },
   "provides" : {
-    "resource" : "source/resource", 
-    "encoding" : "utf-8", 
-    "namespace" : "ssvg", 
-    "translation" : "source/translation", 
-    "type" : "library", 
+    "resource" : "source/resource",
+    "encoding" : "utf-8",
+    "namespace" : "ssvg",
+    "translation" : "source/translation",
+    "type" : "library",
     "class" : "source/class"
   }
 }

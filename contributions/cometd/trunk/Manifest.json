@@ -1,31 +1,31 @@
 {
   "info" : {
-    "category" : [], 
-    "description" : "A qooxdoo wrapper for the cometd server-push library.", 
-    "license" : "LGPL/EPL", 
-    "checksum" : "", 
+    "category" : ["backend"],
+    "description" : "A qooxdoo wrapper for the cometd server-push library.",
+    "license" : "LGPL/EPL",
+    "checksum" : "",
     "qooxdoo-versions" : [
-      "1.0", 
+      "1.0",
       "trunk"
-    ], 
-    "summary" : "Cometd Contribution", 
-    "version" : "trunk", 
+    ],
+    "summary" : "Cometd Contribution",
+    "version" : "trunk",
     "authors" : [
       {
-        "name" : "Christian Boulanger (cboulanger)", 
+        "name" : "Christian Boulanger (cboulanger)",
         "email" : "info@bibliograph.org"
       }
-    ], 
-    "download" : "http://svn.code.sf.net/p/qooxdoo-contrib/code/trunk/qooxdoo-contrib/cometd/trunk/", 
-    "homepage" : "http://contrib.qooxdoo.org/project/cometd", 
+    ],
+    "download" : "http://svn.code.sf.net/p/qooxdoo-contrib/code/trunk/qooxdoo-contrib/cometd/trunk/",
+    "homepage" : "http://contrib.qooxdoo.org/project/cometd",
     "name" : "Cometd"
-  }, 
+  },
   "provides" : {
-    "resource" : "source/resource", 
-    "encoding" : "utf-8", 
-    "namespace" : "cometd", 
-    "translation" : "source/translation", 
-    "type" : "backend", 
+    "resource" : "source/resource",
+    "encoding" : "utf-8",
+    "namespace" : "cometd",
+    "translation" : "source/translation",
+    "type" : "backend",
     "class" : "source/class"
   }
 }

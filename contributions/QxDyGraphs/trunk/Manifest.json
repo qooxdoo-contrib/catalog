@@ -1,10 +1,11 @@
 {
   "info" : {
-    "category" : [], 
-    "description" : "Makes Dan Vanderkams Dygraph charting library available in Qooxdoo", 
-    "license" : "LGPL/EPL", 
-    "checksum" : "", 
+    "category" : ["drawing"],
+    "description" : "Makes Dan Vanderkams Dygraph charting library available in qooxdoo",
+    "license" : "LGPL/EPL",
+    "checksum" : "",
     "qooxdoo-versions" : [
+<<<<<<< HEAD
       "1.5", 
       "1.6", 
       "2.0",
@@ -13,22 +14,36 @@
     ], 
     "summary" : "QxDyGraphs Contribution", 
     "version" : "trunk", 
+=======
+      "1.5",
+      "1.6",
+      "2.0"
+    ],
+    "summary" : "QxDyGraphs Contribution",
+    "version" : "trunk",
+>>>>>>> 51c0a786681fa20531c241a9faa9d90c0e135b61
     "authors" : [
       {
-        "name" : "Tobi Oetiker (oetiker)", 
+        "name" : "Tobi Oetiker (oetiker)",
         "email" : "tobi@oetiekr.ch"
       }
-    ], 
-    "download" : "http://svn.code.sf.net/p/qooxdoo-contrib/code/trunk/qooxdoo-contrib/QxDyGraphs/trunk/", 
-    "homepage" : "http://contrib.qooxdoo.org/project/QxDyGraphs", 
+    ],
+    "demos": [
+      {
+        "name": "default",
+        "url": "http://demo.qooxdoo.org/contrib/demobrowser/demo/QxDyGraphs/trunk/default/2.0.4/index.html"
+      }
+    ],
+    "download" : "http://svn.code.sf.net/p/qooxdoo-contrib/code/trunk/qooxdoo-contrib/QxDyGraphs/trunk/",
+    "homepage" : "http://contrib.qooxdoo.org/project/QxDyGraphs",
     "name" : "QxDyGraphs"
-  }, 
+  },
   "provides" : {
-    "resource" : "source/resource", 
-    "encoding" : "utf-8", 
-    "namespace" : "qxdygraphs", 
-    "translation" : "source/translation", 
-    "type" : "contribution", 
+    "resource" : "source/resource",
+    "encoding" : "utf-8",
+    "namespace" : "qxdygraphs",
+    "translation" : "source/translation",
+    "type" : "contribution",
     "class" : "source/class"
   }
 }

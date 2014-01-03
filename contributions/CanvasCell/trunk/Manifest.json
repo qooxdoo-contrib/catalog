@@ -1,9 +1,9 @@
 {
   "info" : {
-    "category" : [], 
-    "description" : "a custom cellrenderer for ccreating tiny plots inside table cells.", 
-    "license" : "LGPL/EPL", 
-    "checksum" : "", 
+    "category" : ["drawing"],
+    "description" : "a custom cellrenderer for creating tiny plots inside table cells.",
+    "license" : "LGPL/EPL",
+    "checksum" : "",
     "qooxdoo-versions" : [
       "1.2", 
       "1.3", 
@@ -13,25 +13,31 @@
       "2.0",
       "3.0",
       "3.5"
-    ], 
-    "summary" : "canvas cell renderer for the qooxdoo table widget", 
-    "version" : "trunk", 
+    ],
+    "summary" : "canvas cell renderer for the qooxdoo table widget",
+    "version" : "trunk",
     "authors" : [
       {
-        "name" : "Tobi Oetiker (oetiker)", 
+        "name" : "Tobi Oetiker (oetiker)",
         "email" : "tobi@oetiker.ch"
       }
-    ], 
-    "download" : "http://svn.code.sf.net/p/qooxdoo-contrib/code/trunk/qooxdoo-contrib/CanvasCell/trunk/", 
-    "homepage" : "http://contrib.qooxdoo.org/project/CanvasCell", 
+    ],
+    "demos": [
+      {
+        "name": "default",
+        "url": "http://demo.qooxdoo.org/contrib/demobrowser/demo/CanvasCell/trunk/default/3.0/index.html"
+      }
+    ],
+    "download" : "http://svn.code.sf.net/p/qooxdoo-contrib/code/trunk/qooxdoo-contrib/CanvasCell/trunk/",
+    "homepage" : "http://contrib.qooxdoo.org/project/CanvasCell",
     "name" : "CanvasCell"
-  }, 
+  },
   "provides" : {
-    "resource" : "source/resource", 
-    "encoding" : "utf-8", 
-    "namespace" : "canvascell", 
-    "translation" : "source/translation", 
-    "type" : "contribution", 
+    "resource" : "source/resource",
+    "encoding" : "utf-8",
+    "namespace" : "canvascell",
+    "translation" : "source/translation",
+    "type" : "contribution",
     "class" : "source/class"
   }
 }

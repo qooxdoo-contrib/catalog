@@ -1,40 +1,38 @@
 {
   "info" : {
-    "category" : [], 
-    "description" : "", 
-    "license" : "LGPL/EPL", 
-    "checksum" : "", 
+    "category" : ["backend"],
+    "description" : "qooxdoo RPC server in Python",
+    "license" : "LGPL/EPL",
+    "checksum" : "",
     "qooxdoo-versions" : [
-      "0.8", 
+      "0.8",
       "1.0"
-    ], 
-    "summary" : "qooxdoo RPC server in Python", 
-    "download" : "http://svn.code.sf.net/p/qooxdoo-contrib/code/trunk/qooxdoo-contrib/RpcPython/0.1/", 
-    "version" : "0.1", 
+    ],
+    "summary" : "qooxdoo RPC server in Python",
+    "download" : "http://svn.code.sf.net/p/qooxdoo-contrib/code/trunk/qooxdoo-contrib/RpcPython/0.1/",
+    "version" : "0.1",
     "authors" : [
       {
-        "email" : "python AT cx DOT hu", 
-        "name" : "Viktor Ferenczi", 
-        "user" : ""
-      }, 
+        "email" : "python AT cx DOT hu",
+        "name" : "Viktor Ferenczi"
+      },
       {
-        "email" : "c.boulanger@qxtransformer.org", 
-        "name" : "Christian Boulanger", 
-        "user" : "cboulanger"
+        "email" : "c.boulanger@qxtransformer.org",
+        "name" : "Christian Boulanger (cboulanger)"
       }
-    ], 
+    ],
     "keywords" : [
       "RPC"
-    ], 
-    "homepage" : "http://qooxdoo.org/documentation/rpc_python", 
+    ],
+    "homepage" : "http://qooxdoo.org/docs/rpc_python",
     "name" : "RpcPython"
-  }, 
+  },
   "provides" : {
-    "resource" : "", 
-    "encoding" : "utf-8", 
-    "namespace" : "", 
-    "translation" : "", 
-    "type" : "library", 
+    "resource" : "",
+    "encoding" : "utf-8",
+    "namespace" : "",
+    "translation" : "",
+    "type" : "library",
     "class" : ""
   }
 }

@@ -1,38 +1,38 @@
 {
   "info" : {
-    "category" : [], 
-    "description" : "HtmlEditor adds toolbars and other essential functionality to HtmlArea", 
-    "license" : "Same as Qooxdoo", 
-    "checksum" : "", 
+    "category" : ["widget"],
+    "description" : "HtmlEditor adds toolbars and other essential functionality to HtmlArea",
+    "license" : "LGPL/EPL",
+    "checksum" : "",
     "qooxdoo-versions" : [
-      "0.8.1", 
+      "0.8.1",
       "trunk"
-    ], 
-    "summary" : "Fully featured Rich Text editor based on HtmlArea", 
-    "download" : "http://svn.code.sf.net/p/qooxdoo-contrib/code/trunk/qooxdoo-contrib/HtmlEditor/trunk/", 
-    "version" : "trunk", 
+    ],
+    "summary" : "Fully featured Rich Text editor based on HtmlArea",
+    "download" : "http://svn.code.sf.net/p/qooxdoo-contrib/code/trunk/qooxdoo-contrib/HtmlEditor/trunk/",
+    "version" : "trunk",
     "authors" : [
       {
-        "name" : "John Spackman (spackers)", 
+        "name" : "John Spackman (spackers)",
         "email" : "john.spackman@zenesis.com"
       }
-    ], 
+    ],
     "keywords" : [
-      "html", 
-      "wysiwyg", 
-      "editor", 
-      "rich", 
+      "html",
+      "wysiwyg",
+      "editor",
+      "rich",
       "text"
-    ], 
-    "homepage" : "http://www.zenesis.com/qx/dev", 
+    ],
+    "homepage" : "http://www.zenesis.com/qx/dev",
     "name" : "HtmlEditor"
-  }, 
+  },
   "provides" : {
-    "resource" : "source/resource", 
-    "encoding" : "utf-8", 
-    "namespace" : "htmleditor", 
-    "translation" : "source/translation", 
-    "type" : "application", 
+    "resource" : "source/resource",
+    "encoding" : "utf-8",
+    "namespace" : "htmleditor",
+    "translation" : "source/translation",
+    "type" : "application",
     "class" : "source/class"
   }
 }

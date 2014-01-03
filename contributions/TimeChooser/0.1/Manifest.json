@@ -1,34 +1,34 @@
 {
   "info" : {
-    "category" : [], 
-    "description" : "Widget to select a time of day", 
-    "license" : "LGPL", 
-    "checksum" : "", 
+    "category" : ["widget"],
+    "description" : "Widget to select a time of day",
+    "license" : "LGPL",
+    "checksum" : "",
     "qooxdoo-versions" : [
       "0.8"
-    ], 
-    "summary" : "Widget to select a time of day", 
-    "download" : "http://svn.code.sf.net/p/qooxdoo-contrib/code/trunk/qooxdoo-contrib/TimeChooser/0.1/", 
-    "version" : "0.1", 
+    ],
+    "summary" : "Widget to select a time of day",
+    "download" : "http://svn.code.sf.net/p/qooxdoo-contrib/code/trunk/qooxdoo-contrib/TimeChooser/0.1/",
+    "version" : "0.1",
     "authors" : [
       {
-        "name" : "Derrell Lipman", 
+        "name" : "Derrell Lipman (derrell)",
         "email" : "derrell DOT lipman AT unwireduniverse DOT com"
       }
-    ], 
+    ],
     "keywords" : [
-      "date", 
+      "date",
       "time"
-    ], 
-    "homepage" : "http://contrib.qooxdoo.org", 
+    ],
+    "homepage" : "http://contrib.qooxdoo.org",
     "name" : "TimeChooser"
-  }, 
+  },
   "provides" : {
-    "resource" : "source/resource", 
-    "encoding" : "utf-8", 
-    "namespace" : "timechooser", 
-    "translation" : "source/translation", 
-    "type" : "library", 
+    "resource" : "source/resource",
+    "encoding" : "utf-8",
+    "namespace" : "timechooser",
+    "translation" : "source/translation",
+    "type" : "library",
     "class" : "source/class"
   }
 }

@@ -1,33 +1,33 @@
 {
   "info" : {
-    "category" : [], 
-    "description" : "Additional theme", 
-    "license" : "LGPL/EPL", 
-    "checksum" : "", 
+    "category" : ["theme"],
+    "description" : "Additional theme",
+    "license" : "LGPL/EPL",
+    "checksum" : "",
     "qooxdoo-versions" : [
-      "1.0", 
-      "1.1", 
-      "1.2", 
+      "1.0",
+      "1.1",
+      "1.2",
       "1.3"
-    ], 
-    "summary" : "RetroTheme Contribution", 
-    "version" : "0.1", 
+    ],
+    "summary" : "RetroTheme Contribution",
+    "version" : "0.1",
     "authors" : [
       {
-        "name" : "Norbert Schröder (scro34)", 
+        "name" : "Norbert Schröder (scro34)",
         "email" : " schroeder AT scro34 DOT de"
       }
-    ], 
-    "download" : "http://svn.code.sf.net/p/qooxdoo-contrib/code/trunk/qooxdoo-contrib/RetroTheme/0.1/", 
-    "homepage" : "http://contrib.qooxdoo.org/project/RetroTheme", 
+    ],
+    "download" : "http://svn.code.sf.net/p/qooxdoo-contrib/code/trunk/qooxdoo-contrib/RetroTheme/0.1/",
+    "homepage" : "http://contrib.qooxdoo.org/project/RetroTheme",
     "name" : "RetroTheme"
-  }, 
+  },
   "provides" : {
-    "resource" : "source/resource", 
-    "encoding" : "utf-8", 
-    "namespace" : "retrotheme", 
-    "translation" : "source/translation", 
-    "type" : "theme", 
+    "resource" : "source/resource",
+    "encoding" : "utf-8",
+    "namespace" : "retrotheme",
+    "translation" : "source/translation",
+    "type" : "theme",
     "class" : "source/class"
   }
 }
