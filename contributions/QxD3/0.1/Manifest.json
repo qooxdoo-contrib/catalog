@@ -1,0 +1,30 @@
+{
+  "info" : {
+    "category" : ["drawing"],
+    "description" : "Integrate D3.jst into qooxdoo.",
+    "license" : "LGPL/EPL",
+    "checksum" : "dbd91d10730528ae232214b194d8f901922c8930",
+    "qooxdoo-versions" : [
+      "3.5"
+    ],
+    "summary" : "QxD3 Contribution",
+    "version" : "0.1",
+    "authors" : [
+      {
+        "name" : "Tobi Oetiker (oetiker)",
+        "email" : "tobi@oetiker.ch"
+      }
+    ],
+    "download" : "https://github.com/oetiker/QxD3/archive/0.1.zip",
+    "homepage" : "http://github.com/oetiker/QxD3",
+    "name" : "QxD3"
+  },
+  "provides" : {
+    "resource" : "source/resource",
+    "encoding" : "utf-8",
+    "namespace" : "qxd3",
+    "translation" : "source/translation",
+    "type" : "contribution",
+    "class" : "source/class"
+  }
+}
