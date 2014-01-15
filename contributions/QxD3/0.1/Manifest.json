@@ -1,7 +1,7 @@
 {
   "info" : {
     "category" : ["drawing"],
-    "description" : "Integrate D3.jst into qooxdoo.",
+    "description" : "Integrate D3.js support",
     "license" : "LGPL/EPL",
     "checksum" : "dbd91d10730528ae232214b194d8f901922c8930",
     "qooxdoo-versions" : [
