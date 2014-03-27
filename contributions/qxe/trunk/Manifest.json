@@ -3,7 +3,7 @@
     "category" : ["widget"],
     "description" : "Extension of the standard qooxdoo framework.",
     "license" : "LGPL/EPL",
-    "checksum" : "",
+    "checksum" : "b345bae1be24a4aad25f426da2c85b65091dd279",
     "qooxdoo-versions" : [
       "3.6"
     ],
