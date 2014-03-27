@@ -1,11 +1,11 @@
 {
   "info" : {
-    "category" : [],
+    "category" : ["widget"],
     "description" : "Extension of the standard qooxdoo framework.",
     "license" : "LGPL/EPL",
     "checksum" : "",
     "qooxdoo-versions" : [
-      "1.6-pre"
+      "3.6"
     ],
     "summary" : "qooxdoo extension framework",
     "version" : "trunk",
@@ -18,74 +18,74 @@
     "demos": [
       {
         "name": "Busy",
-        "url": "http://demo.qooxdoo.org/contrib/demobrowser/demo/qxe/trunk/Busy/1.6-pre/index.html"
+        "url": "http://demo.qooxdoo.org/contrib/demobrowser/demo/qxe/trunk/Busy/3.6/index.html"
       },
       {
         "name": "ButtonPane",
-        "url": "http://demo.qooxdoo.org/contrib/demobrowser/demo/qxe/trunk/ButtonPane/1.6-pre/index.html"
+        "url": "http://demo.qooxdoo.org/contrib/demobrowser/demo/qxe/trunk/ButtonPane/3.6/index.html"
       },
       {
         "name": "Captcha",
-        "url": "http://demo.qooxdoo.org/contrib/demobrowser/demo/qxe/trunk/Captcha/1.6-pre/index.html"
+        "url": "http://demo.qooxdoo.org/contrib/demobrowser/demo/qxe/trunk/Captcha/3.6/index.html"
       },
       {
         "name": "Clock",
-        "url": "http://demo.qooxdoo.org/contrib/demobrowser/demo/qxe/trunk/Clock/1.6-pre/index.html"
+        "url": "http://demo.qooxdoo.org/contrib/demobrowser/demo/qxe/trunk/Clock/3.6/index.html"
       },
       {
         "name": "Counter",
-        "url": "http://demo.qooxdoo.org/contrib/demobrowser/demo/qxe/trunk/Counter/1.6-pre/index.html"
+        "url": "http://demo.qooxdoo.org/contrib/demobrowser/demo/qxe/trunk/Counter/3.6/index.html"
       },
       {
         "name": "DecoratedWindow",
-        "url": "http://demo.qooxdoo.org/contrib/demobrowser/demo/qxe/trunk/DecoratedWindow/1.6-pre/index.html"
+        "url": "http://demo.qooxdoo.org/contrib/demobrowser/demo/qxe/trunk/DecoratedWindow/3.6/index.html"
       },
       {
         "name": "Dialog",
-        "url": "http://demo.qooxdoo.org/contrib/demobrowser/demo/qxe/trunk/Dialog/1.6-pre/index.html"
+        "url": "http://demo.qooxdoo.org/contrib/demobrowser/demo/qxe/trunk/Dialog/3.6/index.html"
       },
       {
         "name": "DocumentViewer",
-        "url": "http://demo.qooxdoo.org/contrib/demobrowser/demo/qxe/trunk/DocumentViewer/1.6-pre/index.html"
+        "url": "http://demo.qooxdoo.org/contrib/demobrowser/demo/qxe/trunk/DocumentViewer/3.6/index.html"
       },
       {
         "name": "Frame",
-        "url": "http://demo.qooxdoo.org/contrib/demobrowser/demo/qxe/trunk/Frame/1.6-pre/index.html"
+        "url": "http://demo.qooxdoo.org/contrib/demobrowser/demo/qxe/trunk/Frame/3.6/index.html"
       },
       {
         "name": "MultiStateButton",
-        "url": "http://demo.qooxdoo.org/contrib/demobrowser/demo/qxe/trunk/MultiStateButton/1.6-pre/index.html"
+        "url": "http://demo.qooxdoo.org/contrib/demobrowser/demo/qxe/trunk/MultiStateButton/3.6/index.html"
       },
       {
         "name": "OptionDialog",
-        "url": "http://demo.qooxdoo.org/contrib/demobrowser/demo/qxe/trunk/OptionDialog/1.6-pre/index.html"
+        "url": "http://demo.qooxdoo.org/contrib/demobrowser/demo/qxe/trunk/OptionDialog/3.6/index.html"
       },
       {
         "name": "OptionPane",
-        "url": "http://demo.qooxdoo.org/contrib/demobrowser/demo/qxe/trunk/OptionPane/1.6-pre/index.html"
+        "url": "http://demo.qooxdoo.org/contrib/demobrowser/demo/qxe/trunk/OptionPane/3.6/index.html"
       },
       {
         "name": "PageControl",
-        "url": "http://demo.qooxdoo.org/contrib/demobrowser/demo/qxe/trunk/PageControl/1.6-pre/index.html"
+        "url": "http://demo.qooxdoo.org/contrib/demobrowser/demo/qxe/trunk/PageControl/3.6/index.html"
       },
       {
         "name": "StatusBar",
-        "url": "http://demo.qooxdoo.org/contrib/demobrowser/demo/qxe/trunk/StatusBar/1.6-pre/index.html"
+        "url": "http://demo.qooxdoo.org/contrib/demobrowser/demo/qxe/trunk/StatusBar/3.6/index.html"
       },
       {
         "name": "WebDesktop",
-        "url": "http://demo.qooxdoo.org/contrib/demobrowser/demo/qxe/trunk/WebDesktop/1.6-pre/index.html"
+        "url": "http://demo.qooxdoo.org/contrib/demobrowser/demo/qxe/trunk/WebDesktop/3.6/index.html"
       },
       {
         "name": "Window",
-        "url": "http://demo.qooxdoo.org/contrib/demobrowser/demo/qxe/trunk/Window/1.6-pre/index.html"
+        "url": "http://demo.qooxdoo.org/contrib/demobrowser/demo/qxe/trunk/Window/3.6/index.html"
       },
       {
         "name": "Wizard",
-        "url": "http://demo.qooxdoo.org/contrib/demobrowser/demo/qxe/trunk/Wizard/1.6-pre/index.html"
+        "url": "http://demo.qooxdoo.org/contrib/demobrowser/demo/qxe/trunk/Wizard/3.6/index.html"
       }
     ],
-    "download" : "http://svn.code.sf.net/p/qooxdoo-contrib/code/trunk/qooxdoo-contrib/qxe/trunk/",
+    "download" : "https://github.com/stefanand/qxe/archive/master.zip",
     "homepage" : "http://contrib.qooxdoo.org/project/qxe",
     "name" : "qxe"
   },
