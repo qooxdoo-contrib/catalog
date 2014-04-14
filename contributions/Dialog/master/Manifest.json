@@ -17,8 +17,8 @@
       }
     ],
 
-    "version" : "0.6",
-    "qooxdoo-versions": ["2.0","2.1pre"],
+    "version" : "master",
+    "qooxdoo-versions": ["2.0","2.1","3.0","3.5","3.6"]
     "download" : "https://github.com/cboulanger/qx-contrib-Dialog/archive/master.tar.gz",
     "checksum" : "e3241b1e1c44c3620b07972411a15cf3f05cfa4c",
     "category" : ["widget"]
