@@ -1,34 +1,40 @@
 {
   "info" : {
-    "category" : [], 
-    "description" : "Library for uploading files, with progress feedback and doesn't block UI", 
-    "license" : "LGPL and EPL (see http://qooxdoo.org)", 
-    "checksum" : "", 
+    "category" : ["widget"],
+    "description" : "Library for uploading files, with progress feedback and doesn't block UI",
+    "license" : "LGPL/EPL",
+    "checksum" : "",
     "qooxdoo-versions" : [
-      "1.5", 
-      "1.6", 
-      "1.6.1", 
-      "2.0", 
+      "1.5",
+      "1.6",
+      "1.6.1",
+      "2.0",
       "2.1"
-    ], 
-    "summary" : "Uploader widget", 
-    "version" : "trunk", 
+    ],
+    "summary" : "Uploader widget",
+    "version" : "trunk",
     "authors" : [
       {
-        "name" : "John Spackman", 
+        "name" : "John Spackman (spackers)",
         "email" : "john.spackman@zenesis.com"
       }
-    ], 
-    "download" : "http://svn.code.sf.net/p/qooxdoo-contrib/code/trunk/qooxdoo-contrib/UploadMgr/trunk/", 
-    "homepage" : "http://www.zenesis.com/", 
+    ],
+    "demos": [
+      {
+        "name": "default",
+        "url": "http://demo.qooxdoo.org/contrib/demobrowser/demo/UploadMgr/trunk/default/2.1.1/index.html"
+      }
+    ],
+    "download" : "http://svn.code.sf.net/p/qooxdoo-contrib/code/trunk/qooxdoo-contrib/UploadMgr/trunk/",
+    "homepage" : "http://www.zenesis.com/",
     "name" : "UploadMgr"
-  }, 
+  },
   "provides" : {
-    "resource" : "source/resource", 
-    "encoding" : "utf-8", 
-    "namespace" : "com.zenesis.qx.upload", 
-    "translation" : "source/translation", 
-    "type" : "contribution", 
+    "resource" : "source/resource",
+    "encoding" : "utf-8",
+    "namespace" : "com.zenesis.qx.upload",
+    "translation" : "source/translation",
+    "type" : "contribution",
     "class" : "source/class"
   }
 }

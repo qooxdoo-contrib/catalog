@@ -1,36 +1,42 @@
 {
   "info" : {
-    "category" : [], 
-    "description" : "A widget that allows to collapse and expand certain sections within a panel and comes with a choice of appearances.", 
-    "license" : "LGPL/EPL", 
-    "checksum" : "", 
+    "category" : ["widget"],
+    "description" : "A widget that allows to collapse and expand certain sections within a panel and comes with a choice of appearances.",
+    "license" : "LGPL/EPL",
+    "checksum" : "",
     "qooxdoo-versions" : [
-      "1.0", 
-      "1.1", 
+      "1.0",
+      "1.1",
       "1.2"
-    ], 
-    "summary" : "CollapsablePanel Widget", 
-    "version" : "trunk", 
+    ],
+    "summary" : "CollapsablePanel Widget",
+    "version" : "trunk",
     "authors" : [
       {
-        "name" : "Matthew Gregory", 
+        "name" : "Matthew Gregory",
         "email" : "matthew@nogsnet.com"
-      }, 
+      },
       {
-        "name" : "Christian Boulanger (cboulanger)", 
+        "name" : "Christian Boulanger (cboulanger)",
         "email" : "info@bibliograph.org"
       }
-    ], 
-    "download" : "http://svn.code.sf.net/p/qooxdoo-contrib/code/trunk/qooxdoo-contrib/CollapsablePanel/trunk/", 
-    "homepage" : "http://contrib.qooxdoo.org/project/collapsablePanel", 
+    ],
+    "demos": [
+      {
+        "name": "default",
+        "url": "http://demo.qooxdoo.org/contrib/demobrowser/demo/collapsablePanel/trunk/default/1.2.2/index.html"
+      }
+    ],
+    "download" : "http://svn.code.sf.net/p/qooxdoo-contrib/code/trunk/qooxdoo-contrib/CollapsablePanel/trunk/",
+    "homepage" : "http://contrib.qooxdoo.org/project/collapsablePanel",
     "name" : "collapsablePanel"
-  }, 
+  },
   "provides" : {
-    "resource" : "source/resource", 
-    "encoding" : "utf-8", 
-    "namespace" : "collapsablepanel", 
-    "translation" : "source/translation", 
-    "type" : "contribution", 
+    "resource" : "source/resource",
+    "encoding" : "utf-8",
+    "namespace" : "collapsablepanel",
+    "translation" : "source/translation",
+    "type" : "contribution",
     "class" : "source/class"
   }
 }

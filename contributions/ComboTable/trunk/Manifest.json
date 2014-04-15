@@ -1,34 +1,40 @@
 {
   "info" : {
-    "category" : [], 
-    "description" : "A selectbox using a qooxdoo table to show list of options supporting incremental search.", 
-    "license" : "LGPL/EPL", 
-    "checksum" : "", 
+    "category" : ["widget"],
+    "description" : "A selectbox using a qooxdoo table to show list of options supporting incremental search.",
+    "license" : "LGPL/EPL",
+    "checksum" : "",
     "qooxdoo-versions" : [
       "1.4"
-    ], 
-    "summary" : "A selectbox with incemental search", 
-    "version" : "trunk", 
+    ],
+    "summary" : "A selectbox with incemental search",
+    "version" : "trunk",
     "authors" : [
       {
-        "name" : "Tobi Oetiker (oetiker)", 
+        "name" : "Tobi Oetiker (oetiker)",
         "email" : "tobi@oetiker.ch"
-      }, 
+      },
       {
-        "name" : "Mustafa Sak", 
+        "name" : "Mustafa Sak",
         "email" : "info@saksys.de"
       }
-    ], 
-    "download" : "http://svn.code.sf.net/p/qooxdoo-contrib/code/trunk/qooxdoo-contrib/ComboTable/trunk/", 
-    "homepage" : "http://contrib.qooxdoo.org/project/ComboTable", 
+    ],
+    "demos": [
+      {
+        "name": "default",
+        "url": "http://demo.qooxdoo.org/contrib/demobrowser/demo/ComboTable/trunk/default/1.4.2/index.html"
+      }
+    ],
+    "download" : "http://svn.code.sf.net/p/qooxdoo-contrib/code/trunk/qooxdoo-contrib/ComboTable/trunk/",
+    "homepage" : "http://contrib.qooxdoo.org/project/ComboTable",
     "name" : "ComboTable"
-  }, 
+  },
   "provides" : {
-    "resource" : "source/resource", 
-    "encoding" : "utf-8", 
-    "namespace" : "combotable", 
-    "translation" : "source/translation", 
-    "type" : "contribution", 
+    "resource" : "source/resource",
+    "encoding" : "utf-8",
+    "namespace" : "combotable",
+    "translation" : "source/translation",
+    "type" : "contribution",
     "class" : "source/class"
   }
 }

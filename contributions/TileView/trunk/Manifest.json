@@ -1,36 +1,36 @@
 {
   "info" : {
-    "category" : [], 
-    "description" : "Provides an enhanced list and list-item that look similar to the 'tiles' used by file explorers", 
-    "license" : "LGPL/EPL", 
-    "checksum" : "", 
+    "category" : ["widget"],
+    "description" : "Provides an enhanced list and list-item that look similar to the 'tiles' used by file explorers",
+    "license" : "LGPL/EPL",
+    "checksum" : "",
     "qooxdoo-versions" : [
       "0.8"
-    ], 
-    "summary" : "TileView", 
-    "download" : "http://svn.code.sf.net/p/qooxdoo-contrib/code/trunk/qooxdoo-contrib/TileView/trunk/", 
-    "version" : "trunk", 
+    ],
+    "summary" : "TileView",
+    "download" : "http://svn.code.sf.net/p/qooxdoo-contrib/code/trunk/qooxdoo-contrib/TileView/trunk/",
+    "version" : "trunk",
     "authors" : [
       {
-        "name" : "Matthew Gregory (noggin182)", 
+        "name" : "Matthew Gregory (noggin182)",
         "email" : "matthew+qooxdoo@nogsnet.com"
       }
-    ], 
+    ],
     "keywords" : [
-      "ui", 
-      "tile", 
-      "tileview", 
+      "ui",
+      "tile",
+      "tileview",
       "list"
-    ], 
-    "homepage" : "http://contrib.qooxdoo.org/TileView", 
+    ],
+    "homepage" : "http://contrib.qooxdoo.org/TileView",
     "name" : "TileView"
-  }, 
+  },
   "provides" : {
-    "resource" : "source/resource", 
-    "encoding" : "utf-8", 
-    "namespace" : "tileview", 
-    "translation" : "source/translation", 
-    "type" : "library", 
+    "resource" : "source/resource",
+    "encoding" : "utf-8",
+    "namespace" : "tileview",
+    "translation" : "source/translation",
+    "type" : "library",
     "class" : "source/class"
   }
 }

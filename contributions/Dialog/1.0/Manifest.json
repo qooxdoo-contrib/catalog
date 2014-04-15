@@ -16,12 +16,17 @@
         "email" : "c.boulanger@qxtransformer.org"
       }
     ],
-
     "version" : "1.0",
-    "qooxdoo-versions": ["2.0","2.1","3.0","3.5","3.6"]
+    "qooxdoo-versions": ["2.0","2.1","3.0","3.5","3.6"],
     "download" : "https://github.com/cboulanger/qx-contrib-Dialog/archive/v1.0.tar.gz",
     "checksum" : "",
-    "category" : ["widget"]
+    "category" : ["widget"],
+    "demos": [
+      {
+        "name": "default",
+        "url": "http://demo.qooxdoo.org/contrib/demobrowser/demo/Dialog/trunk/default/master/index.html"
+      }
+    ]
   },
   
   "provides" : 

@@ -1,42 +1,48 @@
 {
   "info" : {
-    "category" : [], 
-    "description" : "Widget to select a time of day", 
-    "license" : "LGPL", 
-    "checksum" : "", 
+    "category" : ["widget"],
+    "description" : "Widget to select a time of day",
+    "license" : "LGPL",
+    "checksum" : "",
     "qooxdoo-versions" : [
-      "1.0", 
-      "1.1", 
-      "1.2", 
-      "1.3", 
+      "1.0",
+      "1.1",
+      "1.2",
+      "1.3",
       "1.4"
-    ], 
-    "summary" : "Widget to select a time of day", 
-    "download" : "http://svn.code.sf.net/p/qooxdoo-contrib/code/trunk/qooxdoo-contrib/TimeChooser/trunk/", 
-    "version" : "trunk", 
+    ],
+    "summary" : "Widget to select a time of day",
+    "download" : "http://svn.code.sf.net/p/qooxdoo-contrib/code/trunk/qooxdoo-contrib/TimeChooser/trunk/",
+    "version" : "trunk",
     "authors" : [
       {
-        "name" : "Derrell Lipman", 
+        "name" : "Derrell Lipman (derrell)",
         "email" : "derrell DOT lipman AT unwireduniverse DOT com"
-      }, 
+      },
       {
-        "name" : "Christian Boulanger", 
+        "name" : "Christian Boulanger",
         "email" : "c.boulanger AT qxtransformer DOT org"
       }
-    ], 
+    ],
+    "demos": [
+      {
+        "name": "default",
+        "url": "http://demo.qooxdoo.org/contrib/demobrowser/demo/TimeChooser/trunk/default/1.4.2/index.html"
+      }
+    ],
     "keywords" : [
-      "date", 
+      "date",
       "time"
-    ], 
-    "homepage" : "http://contrib.qooxdoo.org", 
+    ],
+    "homepage" : "http://contrib.qooxdoo.org",
     "name" : "TimeChooser"
-  }, 
+  },
   "provides" : {
-    "resource" : "source/resource", 
-    "encoding" : "utf-8", 
-    "namespace" : "timechooser", 
-    "translation" : "source/translation", 
-    "type" : "contribution", 
+    "resource" : "source/resource",
+    "encoding" : "utf-8",
+    "namespace" : "timechooser",
+    "translation" : "source/translation",
+    "type" : "contribution",
     "class" : "source/class"
   }
 }

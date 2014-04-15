@@ -1,32 +1,38 @@
 {
   "info" : {
-    "category" : [], 
-    "description" : "A widget that can attach itself to another widget and actives on mouse click.", 
-    "license" : "LGPL/EPL", 
-    "checksum" : "", 
+    "category" : ["widget"],
+    "description" : "A widget that can attach itself to another widget and actives on mouse click.",
+    "license" : "LGPL/EPL",
+    "checksum" : "",
     "qooxdoo-versions" : [
-      "1.5", 
-      "1.6", 
+      "1.5",
+      "1.6",
       "2.0"
-    ], 
-    "summary" : "Visually select portion of a Widget", 
-    "version" : "trunk", 
+    ],
+    "summary" : "Visually select portion of a Widget",
+    "version" : "trunk",
     "authors" : [
       {
-        "name" : "Tobias Oetiker (oetiker)", 
+        "name" : "Tobias Oetiker (oetiker)",
         "email" : "tobi@oetiker.ch"
       }
-    ], 
-    "download" : "http://svn.code.sf.net/p/qooxdoo-contrib/code/trunk/qooxdoo-contrib/Cropper/trunk/", 
-    "homepage" : "http://contrib.qooxdoo.org/project/Cropper", 
+    ],
+    "demos": [
+      {
+        "name": "default",
+        "url": "http://demo.qooxdoo.org/contrib/demobrowser/demo/Cropper/trunk/default/2.0.4/index.html"
+      }
+    ],
+    "download" : "http://svn.code.sf.net/p/qooxdoo-contrib/code/trunk/qooxdoo-contrib/Cropper/trunk/",
+    "homepage" : "http://contrib.qooxdoo.org/project/Cropper",
     "name" : "Cropper"
-  }, 
+  },
   "provides" : {
-    "resource" : "source/resource", 
-    "encoding" : "utf-8", 
-    "namespace" : "cropper", 
-    "translation" : "source/translation", 
-    "type" : "contribution", 
+    "resource" : "source/resource",
+    "encoding" : "utf-8",
+    "namespace" : "cropper",
+    "translation" : "source/translation",
+    "type" : "contribution",
     "class" : "source/class"
   }
 }

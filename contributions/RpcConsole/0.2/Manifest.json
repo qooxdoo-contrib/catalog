@@ -1,32 +1,32 @@
 {
   "info" : {
-    "category" : [], 
-    "description" : "A simple frontend to test the backend JSONRPC server.", 
-    "license" : "LGPL/EPL", 
-    "checksum" : "", 
+    "category" : ["backend"],
+    "description" : "A simple frontend to test the backend JSONRPC server.",
+    "license" : "LGPL/EPL",
+    "checksum" : "",
     "qooxdoo-versions" : [
-      "1.0", 
-      "1.1", 
+      "1.0",
+      "1.1",
       "trunk"
-    ], 
-    "summary" : "RpcConsole Contribution", 
-    "version" : "0.2", 
+    ],
+    "summary" : "RpcConsole Contribution",
+    "version" : "0.2",
     "authors" : [
       {
-        "name" : "Christian Boulanger (cboulanger)", 
+        "name" : "Christian Boulanger (cboulanger)",
         "email" : "c.boulanger@qxtransformer.org"
       }
-    ], 
-    "download" : "http://svn.code.sf.net/p/qooxdoo-contrib/code/trunk/qooxdoo-contrib/RpcConsole/0.2/", 
-    "homepage" : "http://contrib.qooxdoo.org/project/RpcConsole", 
+    ],
+    "download" : "http://svn.code.sf.net/p/qooxdoo-contrib/code/trunk/qooxdoo-contrib/RpcConsole/0.2/",
+    "homepage" : "http://contrib.qooxdoo.org/project/RpcConsole",
     "name" : "RpcConsole"
-  }, 
+  },
   "provides" : {
-    "resource" : "source/resource", 
-    "encoding" : "utf-8", 
-    "namespace" : "rpcconsole", 
-    "translation" : "source/translation", 
-    "type" : "backend", 
+    "resource" : "source/resource",
+    "encoding" : "utf-8",
+    "namespace" : "rpcconsole",
+    "translation" : "source/translation",
+    "type" : "backend",
     "class" : "source/class"
   }
 }

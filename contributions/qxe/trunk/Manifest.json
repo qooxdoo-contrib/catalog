@@ -1,30 +1,100 @@
 {
   "info" : {
-    "category" : [], 
-    "description" : "Extension of the standard qooxdoo framework.", 
-    "license" : "LGPL/EPL", 
-    "checksum" : "", 
+    "category" : ["widget"],
+    "description" : "Extension of the standard qooxdoo framework.",
+    "license" : "LGPL/EPL",
+    "checksum" : "b345bae1be24a4aad25f426da2c85b65091dd279",
     "qooxdoo-versions" : [
-      "1.6-pre"
-    ], 
-    "summary" : "qooxdoo extension framework", 
-    "version" : "trunk", 
+      "3.6"
+    ],
+    "summary" : "qooxdoo extension framework",
+    "version" : "trunk",
     "authors" : [
       {
-        "name" : "Stefan Andersson (sand)", 
+        "name" : "Stefan Andersson (sand)",
         "email" : "stefan.andersson@live.com"
       }
-    ], 
-    "download" : "http://svn.code.sf.net/p/qooxdoo-contrib/code/trunk/qooxdoo-contrib/qxe/trunk/", 
-    "homepage" : "http://contrib.qooxdoo.org/project/qxe", 
+    ],
+    "demos": [
+      {
+        "name": "Busy",
+        "url": "http://demo.qooxdoo.org/contrib/demobrowser/demo/qxe/trunk/Busy/3.6/index.html"
+      },
+      {
+        "name": "ButtonPane",
+        "url": "http://demo.qooxdoo.org/contrib/demobrowser/demo/qxe/trunk/ButtonPane/3.6/index.html"
+      },
+      {
+        "name": "Captcha",
+        "url": "http://demo.qooxdoo.org/contrib/demobrowser/demo/qxe/trunk/Captcha/3.6/index.html"
+      },
+      {
+        "name": "Clock",
+        "url": "http://demo.qooxdoo.org/contrib/demobrowser/demo/qxe/trunk/Clock/3.6/index.html"
+      },
+      {
+        "name": "Counter",
+        "url": "http://demo.qooxdoo.org/contrib/demobrowser/demo/qxe/trunk/Counter/3.6/index.html"
+      },
+      {
+        "name": "DecoratedWindow",
+        "url": "http://demo.qooxdoo.org/contrib/demobrowser/demo/qxe/trunk/DecoratedWindow/3.6/index.html"
+      },
+      {
+        "name": "Dialog",
+        "url": "http://demo.qooxdoo.org/contrib/demobrowser/demo/qxe/trunk/Dialog/3.6/index.html"
+      },
+      {
+        "name": "DocumentViewer",
+        "url": "http://demo.qooxdoo.org/contrib/demobrowser/demo/qxe/trunk/DocumentViewer/3.6/index.html"
+      },
+      {
+        "name": "Frame",
+        "url": "http://demo.qooxdoo.org/contrib/demobrowser/demo/qxe/trunk/Frame/3.6/index.html"
+      },
+      {
+        "name": "MultiStateButton",
+        "url": "http://demo.qooxdoo.org/contrib/demobrowser/demo/qxe/trunk/MultiStateButton/3.6/index.html"
+      },
+      {
+        "name": "OptionDialog",
+        "url": "http://demo.qooxdoo.org/contrib/demobrowser/demo/qxe/trunk/OptionDialog/3.6/index.html"
+      },
+      {
+        "name": "OptionPane",
+        "url": "http://demo.qooxdoo.org/contrib/demobrowser/demo/qxe/trunk/OptionPane/3.6/index.html"
+      },
+      {
+        "name": "PageControl",
+        "url": "http://demo.qooxdoo.org/contrib/demobrowser/demo/qxe/trunk/PageControl/3.6/index.html"
+      },
+      {
+        "name": "StatusBar",
+        "url": "http://demo.qooxdoo.org/contrib/demobrowser/demo/qxe/trunk/StatusBar/3.6/index.html"
+      },
+      {
+        "name": "WebDesktop",
+        "url": "http://demo.qooxdoo.org/contrib/demobrowser/demo/qxe/trunk/WebDesktop/3.6/index.html"
+      },
+      {
+        "name": "Window",
+        "url": "http://demo.qooxdoo.org/contrib/demobrowser/demo/qxe/trunk/Window/3.6/index.html"
+      },
+      {
+        "name": "Wizard",
+        "url": "http://demo.qooxdoo.org/contrib/demobrowser/demo/qxe/trunk/Wizard/3.6/index.html"
+      }
+    ],
+    "download" : "https://github.com/stefanand/qxe/archive/master.zip",
+    "homepage" : "http://contrib.qooxdoo.org/project/qxe",
     "name" : "qxe"
-  }, 
+  },
   "provides" : {
-    "resource" : "source/resource", 
-    "encoding" : "utf-8", 
-    "namespace" : "qxe", 
-    "translation" : "source/translation", 
-    "type" : "contribution", 
+    "resource" : "source/resource",
+    "encoding" : "utf-8",
+    "namespace" : "qxe",
+    "translation" : "source/translation",
+    "type" : "contribution",
     "class" : "source/class"
   }
 }

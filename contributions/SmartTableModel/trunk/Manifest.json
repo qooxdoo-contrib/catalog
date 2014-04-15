@@ -1,39 +1,53 @@
 {
   "info" : {
-    "category" : [], 
-    "description" : "Combined tree/table with multiple views, and an independent drop-in replacement for the Simple table model, with filtering and better performance.", 
-    "license" : "LGPL/EPL", 
-    "checksum" : "", 
+    "category" : ["widget"],
+    "description" : "Combined tree/table with multiple views, and an independent drop-in replacement for the Simple table model, with filtering and better performance.",
+    "license" : "LGPL/EPL",
+    "checksum" : "",
     "qooxdoo-versions" : [
-      "1.2", 
-      "1.3", 
-      "1.4", 
-      "1.5", 
-      "1.6", 
+      "1.2",
+      "1.3",
+      "1.4",
+      "1.5",
+      "1.6",
       "2.0"
-    ], 
-    "summary" : "SmartTable Contribution", 
-    "version" : "trunk", 
+    ],
+    "summary" : "SmartTable Contribution",
+    "version" : "trunk",
     "authors" : [
       {
-        "name" : "Dave Baggett", 
+        "name" : "Dave Baggett",
         "email" : "dave@baggett.org"
-      }, 
+      },
       {
-        "name" : "Derrell Lipman (derrell)", 
+        "name" : "Derrell Lipman (derrell)",
         "email" : "Derrell.Lipman@unwireduniverse.com"
       }
-    ], 
-    "download" : "http://svn.code.sf.net/p/qooxdoo-contrib/code/trunk/qooxdoo-contrib/SmartTableModel/trunk/", 
-    "homepage" : "http://contrib.qooxdoo.org/project/SmartTableModel", 
+    ],
+    "demos": [
+      {
+        "name": "default",
+        "url": "http://demo.qooxdoo.org/contrib/demobrowser/demo/SmartTableModel/trunk/default/2.0.4/index.html"
+      },
+      {
+        "name": "searchAsYouType",
+        "url": "http://demo.qooxdoo.org/contrib/demobrowser/demo/SmartTableModel/trunk/searchAsYouType/2.0.4/index.html"
+      },
+      {
+        "name": "tree",
+        "url": "http://demo.qooxdoo.org/contrib/demobrowser/demo/SmartTableModel/trunk/tree/2.0.4/index.html"
+      }
+    ],
+    "download" : "http://svn.code.sf.net/p/qooxdoo-contrib/code/trunk/qooxdoo-contrib/SmartTableModel/trunk/",
+    "homepage" : "http://contrib.qooxdoo.org/project/SmartTableModel",
     "name" : "SmartTableModel"
-  }, 
+  },
   "provides" : {
-    "resource" : "source/resource", 
-    "encoding" : "utf-8", 
-    "namespace" : "smart", 
-    "translation" : "source/translation", 
-    "type" : "contribution", 
+    "resource" : "source/resource",
+    "encoding" : "utf-8",
+    "namespace" : "smart",
+    "translation" : "source/translation",
+    "type" : "contribution",
     "class" : "source/class"
   }
 }
