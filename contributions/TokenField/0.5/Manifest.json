@@ -12,11 +12,13 @@
     "license" : "LGPL/EPL",
     "authors" : [
       {
-        "name" : "Guilherme R. Aiolfi (guilhermeaiolfi) - Original code",
+        // Original code
+        "name" : "Guilherme R. Aiolfi (guilhermeaiolfi)",
         "email" : "gradinf AT gmail DOT com"
       },
       {
-        "name" : "Christian Boulanger (cboulanger) - Update to qx v3.x and cotrib 2.0",
+        // Update to qx v3.x and cotrib 2.0"
+        "name" : "Christian Boulanger (cboulanger)",
         "email" : "info AT bibliograph DOT org"
       }
     ],
@@ -31,7 +33,7 @@
     "qooxdoo-versions": ["2.0","2.1","3.0","3.5","3.6"],
 
     "download" : "https://github.com/cboulanger/qx-contrib-TokenField/archive/v0.5.tar.gz",
-    "checksum" : ""
+    "checksum" : "28a0f4f55f9e6b95e4abe438f0dd35262914fae5"
   },
 
   "provides" :
