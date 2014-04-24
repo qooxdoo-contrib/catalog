@@ -12,12 +12,10 @@
     "license" : "LGPL/EPL",
     "authors" : [
       {
-        // Original code
         "name" : "Guilherme R. Aiolfi (guilhermeaiolfi)",
         "email" : "gradinf AT gmail DOT com"
       },
       {
-        // Update to qx v3.x and cotrib 2.0"
         "name" : "Christian Boulanger (cboulanger)",
         "email" : "info AT bibliograph DOT org"
       }
