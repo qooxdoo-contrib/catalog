@@ -1,0 +1,46 @@
+{
+  "info" :
+  {
+    "name" : "TokenField",
+    "category" : ["form","autocomplete"],
+
+    "summary" : "TokenField Contribution",
+    "description" : "A widget implementing the token field concept known from Mac OS X",
+
+    "homepage" : "http://contrib.qooxdoo.org/project/TokenField",
+
+    "license" : "LGPL/EPL",
+    "authors" : [
+      {
+        "name" : "Guilherme R. Aiolfi (guilhermeaiolfi)",
+        "email" : "gradinf AT gmail DOT com"
+      },
+      {
+        "name" : "Christian Boulanger (cboulanger)",
+        "email" : "info AT bibliograph DOT org"
+      }
+    ],
+    "demos": [
+      {
+        "name": "default",
+        "url": "http://demo.qooxdoo.org/contrib/demobrowser/demo/TokenField/trunk/default/trunk/index.html"
+      }
+    ],
+
+    "version" : "0.5",
+    "qooxdoo-versions": ["2.0","2.1","3.0","3.5","3.6"],
+
+    "download" : "https://github.com/cboulanger/qx-contrib-TokenField/archive/v0.5.tar.gz",
+    "checksum" : "28a0f4f55f9e6b95e4abe438f0dd35262914fae5"
+  },
+
+  "provides" :
+  {
+    "namespace"   : "tokenfield",
+    "encoding"    : "utf-8",
+    "class"       : "source/class",
+    "resource"    : "source/resource",
+    "translation" : "source/translation",
+    "type"        : "contribution"
+  }
+}
