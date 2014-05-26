@@ -1,0 +1,35 @@
+{
+  "info" : {
+    "category" : ["backend"],
+    "description" : "Integrates Java POJO objects on the server with the qooxdoo client application in a natural and seamless manner.",
+    "license" : "LGPL/EPL",
+    "checksum" : "",
+    "qooxdoo-versions" : [
+      "1.5",
+      "1.6",
+      "2.0",
+      "2.1", "3.0", "3.5"
+    ],
+    "summary" : "Integrates Java POJO objects on the server with the qooxdoo client application in a natural and seamless manner",
+    "version" : "trunk",
+    "authors" : [
+      {
+        "name" : "John Spackman",
+        "email" : "john.spackman@zenesis.com"
+      }
+    ],
+    "demos": [
+    ],
+    "download" : "https://github.com/johnspackman/qx-serverobjects",
+    "homepage" : "https://github.com/johnspackman/qx-serverobjects",
+    "name" : "ServerObjects"
+  },
+  "provides" : {
+    "resource" : "source/resource",
+    "encoding" : "utf-8",
+    "namespace" : "com.zenesis.qx.remote",
+    "translation" : "source/translation",
+    "type" : "contribution",
+    "class" : "source/class"
+  }
+}
