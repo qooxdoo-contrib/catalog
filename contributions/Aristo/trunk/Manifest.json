@@ -8,7 +8,7 @@
       "1.4",
       "1.5",
       "1.6",
-      "1.6-pre"
+      "1.6-pre", "2.0", "3.0", "3.5"
     ],
     "summary" : "Aristo Contribution",
     "version" : "trunk",
@@ -18,7 +18,7 @@
         "email" : "gradinf AT gmail DOT com"
       },
       {
-        "name" : "John Spackman (spackers)",
+        "name" : "John Spackman",
         "email" : "john DOT spackman AT zenesis DOT com"
       },
       {
@@ -36,7 +36,7 @@
         "url": "http://demo.qooxdoo.org/contrib/demobrowser/demo/Aristo/trunk/default/1.6.1/index.html"
       }
     ],
-    "download" : "http://svn.code.sf.net/p/qooxdoo-contrib/code/trunk/qooxdoo-contrib/Aristo/trunk/",
+    "download" : "https://github.com/johnspackman/aristo",
     "homepage" : "http://contrib.qooxdoo.org/project/Aristo",
     "name" : "Aristo"
   },
