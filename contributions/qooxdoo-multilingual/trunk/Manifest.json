@@ -1,0 +1,36 @@
+{
+  "info" : {
+    "category" : ["core"],
+    "description" : "qooxdoo multilingual version.",
+    "license" : "LGPL/EPL",
+    "checksum" : "",
+    "qooxdoo-versions" : [
+      "3.6"
+    ],
+    "summary" : "qooxdoo core multilingual",
+    "version" : "trunk",
+    "authors" : [
+      {
+        "name" : "Stefan Andersson (sand)",
+        "email" : "dev@cost-savers.net"
+      }
+    ],
+    "demos": [
+      {
+        "name": "Demobrowser",
+        "url": "http://demo.qooxdoo.org/contrib/demobrowser/demo/qooxdoo-multilingual/trunk/demobrowser/3.6/index.html"
+      }
+    ],
+    "download" : "https://github.com/stefanand/qooxdoo-multilingual/archive/master.zip",
+    "homepage" : "http://contrib.qooxdoo.org/project/qooxdoo-multilingual",
+    "name" : "qooxdoo-multilingual"
+  },
+  "provides" : {
+    "resource" : "source/resource",
+    "encoding" : "utf-8",
+    "namespace" : "qx",
+    "translation" : "source/translation",
+    "type" : "contribution",
+    "class" : "source/class"
+  }
+}
