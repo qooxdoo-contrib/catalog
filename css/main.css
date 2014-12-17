@@ -249,8 +249,9 @@ dd li.ctb-qxversion + li.ctb-qxversion:before {
 
 /* @overwrite */
 body { min-width: 0 }
-#footer-wrapper { margin-top: 0; }
-#footer .legal-link { display: block}
+#footer-wrapper { margin-top: 0; height: auto }
+#footer .legal-link { display: block }
+#header h1 { width: auto; }
 
 /* --- responsive --- */
 
