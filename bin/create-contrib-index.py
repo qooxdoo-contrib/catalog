@@ -32,8 +32,8 @@ import re
 # --- constants ---
 
 # input / output
-CONTRIB_PATH = "../../../catalog.git/contributions"
-IDX_FILENAME = "../website/json/contribindex.json"
+CONTRIB_PATH = "../contributions"
+IDX_FILENAME = "../contribindex.json"
 
 MANIFEST_FILE = "Manifest.json"
 CONTRIB_URL_FORMAT = ("https://github.com/qooxdoo-contrib/catalog/"
