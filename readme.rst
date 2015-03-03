@@ -1,8 +1,10 @@
-contrib-catalog
-===============
+Catalog
+=======
 
-Catalog for qooxdoo-contrib contributions.
+Catalog for contributions to qooxdoo.
 
-For easier browsing visit: http://qooxdoo.org/contrib/catalog
 
-For updating the catalog and the catalog website see the `Wiki <../../wiki>`_.
+As a user browse the webinterface: http://qooxdoo.org/contrib/catalog
+
+
+As a contribtor see the `Wiki <../../wiki>`_ for updating the catalog and its website.
