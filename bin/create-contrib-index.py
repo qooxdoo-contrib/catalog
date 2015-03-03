@@ -32,8 +32,9 @@ import re
 # --- constants ---
 
 # input / output
-CONTRIB_PATH = "../contributions"
-IDX_FILENAME = "../contribindex.json"
+SCRIPT_DIR = os.path.dirname(os.path.realpath(__file__))
+CONTRIB_PATH = os.path.realpath(os.path.join(SCRIPT_DIR, "../contributions"))
+IDX_FILENAME = os.path.realpath(os.path.join(SCRIPT_DIR, "../contribindex.json"))
 
 MANIFEST_FILE = "Manifest.json"
 CONTRIB_URL_FORMAT = ("https://github.com/qooxdoo-contrib/catalog/"
