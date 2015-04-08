@@ -1,7 +1,7 @@
 {
   "info" :
   {
-    "name" : "inspector",
+    "name" : "Inspector",
 
     "summary" : "A runtime code inspection module",
     "description" : "The qooxdoo inspector is a tool designed to help debugging qooxdoo applications.  It consists of four seperate windows, (1) a javascript shell; (2) the object finder which shows a table of all qooxdoo objects; (3) the widget finder which shows a tree structure of the ui; (4) the property editor which shows all properties of the current selected object.",
