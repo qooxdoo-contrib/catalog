@@ -3,6 +3,8 @@
   {
     "name" : "featureconfigeditor",
 
+    "category": ["tool"],
+
     "summary" : "Feature Configuration Editor",
     "description" : "Tool to help users create configurations for feature-based builds",
 
