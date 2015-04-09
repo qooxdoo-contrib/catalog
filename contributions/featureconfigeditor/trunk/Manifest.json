@@ -10,7 +10,14 @@
 
     "download" : "https://github.com/qooxdoo/FeatureConfigEditor/archive/master.zip",
 
-    "homepage" : "https://github.com/qooxdoo/FeatureConfigEditor",
+    "homepage" : "https://github.com/qooxdoo/FeatureConfigEditor/",
+
+    "demos": [
+      {
+        "name": "default",
+        "url": "http://qooxdoo.github.io/FeatureConfigEditor/"
+      }
+    ],
 
     "license" : "LGPL/EPL",
     "authors" :
@@ -35,4 +42,3 @@
     "type"        : "application"
   }
 }
-
