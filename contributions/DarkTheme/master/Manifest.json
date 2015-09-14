@@ -1,0 +1,36 @@
+{
+  "info" : {
+    "category" : ["theme"],
+    "description" : "A dark theme for qx 3.0 and above.",
+    "license" : "LGPL/EPL",
+    "checksum" : "",
+    "qooxdoo-versions" : [
+      "3.0", "3.5", "4.0", "4.1", "5.0"
+    ],
+    "summary" : "DarkTheme Contribution",
+    "version" : "master",
+    "authors" : [
+      {
+        "name" : "Norbert Schröder (scro34)",
+        "email" : " schroeder AT scro34 DOT de"
+      }
+    ],
+    "demos": [
+      {
+        "name": "default",
+        "url": "http://scro34.de/darktheme/index.html"
+      }
+    ],
+    "download" : "https://github.com/scro34/DarkTheme/archive/master.zip",
+    "homepage" : "http://contrib.qooxdoo.org/project/DarkTheme",
+    "name" : "DarkTheme"
+  },
+  "provides" : {
+    "resource" : "source/resource",
+    "encoding" : "utf-8",
+    "namespace" : "darktheme",
+    "translation" : "source/translation",
+    "type" : "theme",
+    "class" : "source/class"
+  }
+}
