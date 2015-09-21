@@ -2,6 +2,5 @@
 
 Additional theme for the qooxdoo framework.
 
->> Please note: SilverBlueTheme trunk version works with qooxdoo v2.0 or above. 
-Use v0.2 if your application is generated with qooxdoo v1.4 to v1.6.
-Use v0.1 if your application is generated with qooxdoo v1.0 to v1.3.
+>> Please note: SilverBlueTheme master version works with qooxdoo v3.0 or above. 
+Use v0.1 if your application is generated with qooxdoo v2.0 to v2.1.2.
