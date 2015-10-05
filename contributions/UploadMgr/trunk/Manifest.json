@@ -26,7 +26,7 @@
       }
     ],
     "download" : "https://github.com/johnspackman/UploadMgr/archive/master.zip",
-    "homepage" : "http://qooxdoo.org/contrib/project/uploadmgr",
+    "homepage" : "https://github.com/johnspackman/UploadMgr",
     "name" : "UploadMgr"
   },
   "provides" : {

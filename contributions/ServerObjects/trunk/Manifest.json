@@ -21,7 +21,7 @@
     "demos": [
     ],
     "download" : "https://github.com/johnspackman/qx-serverobjects/archive/master.zip",
-    "homepage" : "http://qooxdoo.org/contrib/project/serverobjects",
+    "homepage" : "https://github.com/johnspackman/qx-serverobjects",
     "name" : "ServerObjects"
   },
   "provides" : {
