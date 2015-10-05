@@ -14,13 +14,13 @@
     "version" : "trunk",
     "authors" : [
       {
-        "name" : "John Spackman",
+        "name" : "John Spackman (johnspackman)",
         "email" : "john.spackman@zenesis.com"
       }
     ],
     "demos": [
     ],
-    "download" : "https://github.com/johnspackman/qx-serverobjects",
+    "download" : "https://github.com/johnspackman/qx-serverobjects/archive/master.zip",
     "homepage" : "http://qooxdoo.org/contrib/project/serverobjects",
     "name" : "ServerObjects"
   },
