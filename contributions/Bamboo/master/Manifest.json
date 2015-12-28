@@ -1,0 +1,45 @@
+{
+  "info" :
+  {
+    "name" : "Bamboo",
+    "category" : ["theme"],
+
+    "summary" : "Bamboo Theme Contribution",
+    "description" : "A 'wooden' theme for qx 3.0 and above.",
+
+    "homepage" : "https://github.com/scro34/Bamboo",
+
+    "license" : "LGPL/EPL",
+    "authors" :
+    [
+      {
+        "name" : "Norbert Schröder (scro34)",
+        "email" : "schroeder AT scro34 DOT de"
+      }
+    ],
+
+    "version" : "master",
+    "qooxdoo-versions" : ["3.0", "3.5", "4.0", "4.1", "5.0"],
+
+    "download" : "https://github.com/scro34/Bamboo/archive/master.zip",
+    "checksum" : "",
+    
+    "demos": [
+      {
+        "name": "default",
+        "url": "http://scro34.de/bamboo/index.html"
+      }
+    ]
+  },
+
+  "provides" :
+  {
+    "namespace"   : "bamboo",
+    "encoding"    : "utf-8",
+    "class"       : "source/class",
+    "resource"    : "source/resource",
+    "translation" : "source/translation",
+    "type"        : "contribution"
+  }
+}
+

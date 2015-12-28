@@ -1,36 +1,45 @@
 {
-  "info" : {
+  "info" :
+  {
+    "name" : "SilverBlueTheme",
     "category" : ["theme"],
-    "description" : "Additional theme for qx 3.0 and above.",
-    "license" : "LGPL/EPL",
-    "checksum" : "",
-    "qooxdoo-versions" : [
-      "3.0", "3.5", "4.0", "4.1", "5.0"
-    ],
+
     "summary" : "SilverBlueTheme Contribution",
-    "version" : "master",
-    "authors" : [
+    "description" : "Additional theme for qx 3.0 and above.",
+
+    "homepage" : "https://github.com/scro34/SilverBlueTheme",
+
+    "license" : "LGPL/EPL",
+    "authors" :
+    [
       {
         "name" : "Norbert Schröder (scro34)",
         "email" : "schroeder AT scro34 DOT de"
       }
     ],
+
+    "version" : "master",
+    "qooxdoo-versions" : ["3.0", "3.5", "4.0", "4.1", "5.0"],
+
+    "download" : "https://github.com/scro34/SilverBlueTheme/archive/master.zip",
+    "checksum" : "",
+    
     "demos": [
       {
         "name": "default",
         "url": "http://scro34.de/silverbluetheme/index.html"
       }
-    ],
-    "download" : "https://github.com/scro34/SilverBlueTheme/archive/master.zip",
-    "homepage" : "http://contrib.qooxdoo.org/project/SilverBlueTheme",
-    "name" : "SilverBlueTheme"
+    ]
   },
-  "provides" : {
-    "resource" : "source/resource",
-    "encoding" : "utf-8",
-    "namespace" : "silverbluetheme",
+
+  "provides" :
+  {
+    "namespace"   : "silverbluetheme",
+    "encoding"    : "utf-8",
+    "class"       : "source/class",
+    "resource"    : "source/resource",
     "translation" : "source/translation",
-    "type" : "theme",
-    "class" : "source/class"
+    "type"        : "contribution"
   }
 }
+
