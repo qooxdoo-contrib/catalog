@@ -10,7 +10,8 @@
       "1.6", 
       "2.0",
       "3.0",
-      "3.5"
+      "3.5",
+      "5.0"
     ], 
     "summary" : "QxJqPlot Contribution", 
     "version" : "trunk", 
@@ -26,8 +27,8 @@
         "url": "http://demo.qooxdoo.org/contrib/demobrowser/demo/QxJqPlot/trunk/default/3.0/index.html"
       }
     ],
-    "download" : "http://svn.code.sf.net/p/qooxdoo-contrib/code/trunk/qooxdoo-contrib/QxJqPlot/trunk/",
-    "homepage" : "http://contrib.qooxdoo.org/project/QxJqPlot",
+    "download" : "https://github.com/oetiker/QxJqPlot",
+    "homepage" : "https://github.com/oetiker/QxJqPlot",
     "name" : "QxJqPlot"
   },
   "provides" : {
